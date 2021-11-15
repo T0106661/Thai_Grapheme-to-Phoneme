@@ -1,0 +1,1000 @@
+รูปร่างสันทัด	ruupF paM raaŋF sanR thatH	0.8461538461538461
+ความคิดความอ่าน	khaM waaM maM khiH daM khwaaM maM aaL naM	0.5609756097560976
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raL theetF neeM thəəM laM nɛɛM nayM ooM limM piL kriL duuM rɔɔH naM	0.7746478873239436
+คบคนจรนอนหมอนหมิ่น	khopH khaM notH ronM aM naM homR onM naM minL	0.48888888888888893
+กองบัญชาการเสนาธิการ	kaM oŋM banM yaM chaaM kaanM seeR naaM thiH kaanM	0.8367346938775511
+กลุ้มอกกลุ้มใจ	kluF maM okL kaM kluF maM cayM	0.6
+คบคนจรนอนหมอนหมิ่น	khopH khaM notH cɔɔM raM naM onM naM haM maM aM naM haM minF	0.43333333333333335
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theeM saM saM wiL taM səəM lɛɛM naM nayM ooM liH maM pikL rɯH duuM haM naaM waM	0.7011494252873562
+ทางหลวงแผ่นดินหมายเลข	thaaM ŋaM haM luaŋM phɛɛnL diL naM haM maayM leeM khaM	0.6111111111111112
+กันไกร	kanM kayM kɔɔM raM	0.4444444444444444
+คบคนจรนอนหมอนหมิ่น	khaM baM khonM cɔɔM ronM naM onM mɔɔR naM haM minF	0.54
+กรมสอบสวนคดีพิเศษ	kɔɔM romM maM sɔɔR baM saM waM nokH khaM diiM phiH seetL	0.6071428571428572
+กระปวกกระเปียก	kɔɔM raH paM wokL kɔɔM raH piaM kaM	0.4571428571428572
+ขาดตกบกพร่อง	khaaR daM tokL bokL kaM phrɔɔŋF	0.7096774193548387
+คบคนจรนอนหมอนหมิ่น	khaM baM khonM cɔɔM raM naM onM naM haM mɔɔnR haM minF	0.5185185185185186
+กระบวนทัศน์	kɔɔM raL baM wonM thatH	0.6086956521739131
+ฟุตบอลในโอลิมปิกฤดูร้อน	fuH topL aM laM nayM ooM limM maM piL kriL duuM rɔɔnH	0.6603773584905661
+ราชการบริหารส่วนกลาง	raatF kaanM bɔɔM riH haanR sowL naM klaaŋM	0.7272727272727273
+ความคิด	khwaaM maM khitH	0.8125
+จิตเวชศาสตร์	citL taM weetF saatL	1.0
+คลาร์ก	khlaaM kaM	0.6
+ลอกเลียน	lɔɔM kaM liaM naM	0.5882352941176471
+แก้วมรกต	kɛɛF womM raM kotL	0.7894736842105263
+พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว	phaM raH baaM thaM saM maM detL phaM raH pokL keeM laaH cawF yuuL huaR	0.6857142857142857
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH thaM seeM neeM thəəM lɛɛM naM nayM ooM liH maM pikL riH duuM haM naaM waM	0.691358024691358
+คอแห้ง	khaM aM hɛɛF ŋaM	0.5
+บัตรเชิญ	batL taM raM chəənM	0.5789473684210527
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	praL thaM seetF witH saM eeM lɛɛnM nayM ooM limM pikL rɯH duuM rɔɔH naM	0.7605633802816901
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raL theeM saM saM wiL taM səəM laM nɛɛM nayM ooM liH maM piL kriL duuM rɔɔnH	0.7
+ขุนบาล	khuL naM baanM	0.7142857142857143
+คบคนจรหมอนหมิ่น	khopH khaM naM cɔɔnM haM mɔɔR naM minL	0.6842105263157895
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kɔɔM raL thɔɔM rowM ŋaM theekF nooM looM yiiM saaR raM saM naM theeM saM lɛH kaanM sɯɯL saanR	0.6666666666666667
+ยีสต์	yiiM saM	0.375
+ประเทศญี่ปุ่นในโอลิมปิกฤดูหนาว	praL thaM seeM yiiF punL nayM ooM limM piL krɯL duuM haM naawR	0.7903225806451613
+รูปร่างลักษณะ	ruuM paM raaŋF lakH kaM saM naL	0.7419354838709677
+พระเขี้ยวแก้ว	phraH khiaF waM kɛɛF waM	0.6666666666666667
+บรรณานุกรม	banM naaM nuH kromM	0.8947368421052632
+กรมวิชาการเกษตร	kɔɔnM maM wiH chaaM kaanM keeM saM tɔɔnM	0.625
+วรรณกรรมในคริสต์ทศวรรษ	wanM naM kraM romM naM khayM riH sotL saM wɔɔnR rotH	0.5961538461538461
+มงคล	maM ŋokH laM	0.33333333333333337
+แยกประเภท	yaM kɛɛM paM raL pheeM thaM	0.4814814814814815
+ประเทศเบลเยียมในโอลิมปิกฤดูหนาว	praL theetF beenM yiaM maM nayM ooM limM pikL rɯH duuM haM naaR waM	0.835820895522388
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	praL thaM seeM saM witH səəM lɛɛM naM nayM ooM limM piL krɯL duuM rɔɔnH	0.8309859154929577
+ใบบอก	bayM baM okL	0.6666666666666667
+องค์กรปกครองส่วนท้องถิ่น	aM ŋokL ropH kaM khrɔɔM ŋaM suanL thɔɔH ŋaM thinL	0.5918367346938775
+ก่อตั้งในคริสต์ศตวรรษที่	kɔɔL taŋF nayM naM khritH saM taM wɔɔnM rotH thiiF	0.78
+กระบวนทัศน์	kraL baM wonM thatH	0.736842105263158
+ภักดี	phakH diiM	1.0
+การเจือ	kaaM raM cɯaM	0.6923076923076923
+นุ่มนวล	numF nuanM	1.0
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	kluL maM phanM thaM mitH raM paM raL chaatF naM phɯaF paM raH chaaM thipH taM yayM	0.7195121951219512
+โรงเรียนเตรียมอุดมศึกษา	raM ŋooM rianM teeM riiM yomM maM uL domM sɯL kaM saaR	0.5925925925925926
+แปลกหน้า	pɛɛnM kaM haM naaH	0.38888888888888884
+กองปราบปราม	kaM oŋM praaM bopL paM raaM maM	0.5483870967741935
+เครื่องหมายตกใจ	khrɯaŋF haM maayM yaM tokL cayM	0.7096774193548387
+แผนการ	phɛɛnR kaaM raM	0.7333333333333334
+องค์การที่ก่อตั้งในคริสต์ทศวรรษ	aM ŋaM kaaM raM thiiF kɔɔL taŋF nayM khaM ritH thaM suanR rotH	0.6935483870967742
+พาท	phaaM thaM	0.5
+ข่าวคราว	khaaL wokH raaM waM	0.5789473684210527
+กระทรวงต่างประเทศ	kɔɔM raH sowM ŋaM taaL ŋaM praL theeM saM	0.5365853658536586
+ฟุตบอลถ้วยพระราชทาน	fuH topL onM laM thuayF phraH raatF thaanM	0.7380952380952381
+อภิเษก	aM phiH seekL	1.0
+รัฐและดินแดนที่ก่อตั้งในคริสต์ทศวรรษ	ratH lɛH dinM dɛɛM naM thiiF kɔɔL taŋF nayM khriH sotL saM watM	0.873015873015873
+คบคนจรนอนหมอนหมิ่น	khopH khaM naM cɔɔM raM naM onM naM haM mɔɔR naM haM miF naM	0.4833333333333333
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF saM witL səəM lɛɛnM nayM ooM liH maM piL krɯL duuM haM naawR	0.8472222222222222
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF saM wiH taM səəM lɛɛM naM nayM ooM limM piL krɯL duuM haM naaR waM	0.7692307692307692
+กระทรวงเศรษฐการ	kraL thɔɔnM woŋM saM reeR sotL thaM kaanM	0.5853658536585367
+ประมวล	paM raH maM waM laM	0.368421052631579
+บิณฑบาต	biL naM thaM baatL	0.8333333333333334
+สํานักงานคณะกรรมการพัฒนาการเศรษฐกิจและสังคมแห่งชาติ	samR nakH ŋaaM nokH naH kamM kaaM raM phatH naaM kaaM raM seenR sotL kitL lɛH saŋR khomM hɛɛŋL chaatF	0.7904761904761904
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theeM sotL witH seeM aM lɛɛM naM nayM ooM limM piL krɯL duuM naawR	0.7432432432432432
+พระเจ้าแผ่นดิน	phaM raH cawF phɛɛnL dinM	0.88
+คบคนจรนอนหมอนหมิ่น	khopH khonM naM cɔɔM ronM onM mɔɔnR naM haM miF naM	0.5686274509803921
+มนุษย์ในสมัยดึกดำบรรพ์	maM nuH saM naM sayM saM mayM dɯkL damM bɔɔnM raM	0.6734693877551021
+เรื่องระหองระแหง	rɯaF ŋaM raH haM aM ŋaM raH haM ŋɛɛR	0.5277777777777778
+คบคนจรนอนหมอนหมิ่น	khaM baM khaM notH cɔɔM ronM onM haM mɔɔnR naM minL	0.5098039215686274
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	kaM lumL phanM thaM miH tɔɔnM paM raH chaaM chonM phɯaF praL chaaM thipH tayM yaM	0.7901234567901234
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH thaM seeM saM witL seeM aM lɛɛM naM nayM ooM limM piL krɯL duuM naawR	0.7142857142857143
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	praL theetF aM otL teeM riiyM nayM ooM liH maM piL kriL duuM haM naaM waM	0.6575342465753424
+ระหว่างสงคราม	raH haM waaL ŋaM saM ŋokH khaM raaM maM	0.4871794871794872
+สมณศักดิ์	somR naM sakL	0.6875
+ประเทศโปแลนด์ในโอลิมปิกฤดูหนาว	praL theeM saM pooM lɛɛnM nayM ooM liH maM piL krɯL duuM haM naawM	0.7575757575757576
+ขนพองสยองเกล้า	khonR naM phaM oŋM soyR yaM aM ŋaM klawF	0.55
+ลูกบอล	luuM kopL onM	0.46153846153846156
+ชาติในโอลิมปิกฤดูหนาว	chaatF nayM ooM limM pikL riH duuM haM naaR waM	0.7234042553191489
+สิ้นสุดในคริสต์ทศวรรษ	siF naM suL daM nayM khriH saM thaM suanR raM saM	0.4693877551020408
+สมรู้ร่วมคิด	somR ruuH rowF maM khiH daM	0.5925925925925926
+ฟูก	fuukF	1.0
+คบคนจรนอนหมอนหมิ่น	khaM baM khonM cɔɔnM naM aM naM haM mɔɔR naM haM miF naM	0.4821428571428571
+ดาบตํารวจ	daapL tamM raM wotH	0.6842105263157895
+คบคนจรนอนหมอนหมิ่น	khaM bokL notH raM nɔɔnM naM mɔɔnR haM minF	0.4883720930232558
+กระทรวงยุติธรรม	kɔɔM raH thɔɔM raM waM ŋaM yuH tiL thanM maM	0.4772727272727273
+ไทยลีกดิวิชัน	thayM thaM yaM liiM kaM diL wiH chanM	0.6486486486486487
+กําหนดเวลาส่งมอบสินค้า	kamM haM naM daM weeM laaM soŋL mɔɔpF siL naM khaaH	0.7254901960784313
+วัตถุประสงค์	watH thuL paM raL saM ŋaM	0.6799999999999999
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raL theeM saM ɔɔtL teeM riiM yaM nayM ooM liH maM piL kriL duuM haM naawR	0.6493506493506493
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theetF saM witH seeM aM laM nɛɛM nayM ooM liH maM pikL riH duuM haM naawR	0.7407407407407407
+โรงเรียนการดนตรี	rooM ŋaM riaM naM kaanM donM triiM	0.8235294117647058
+เปรี้ยว	priawF	1.0
+ใจคอกว้างขวาง	cayM caM khɔɔM kaM waaH ŋaM khaM waaR ŋaM	0.5609756097560976
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF saM wiL taM saM eeM laM nɛɛM nayM ooM limM piL kriL duuM naawR	0.7567567567567568
+ประเทศนิวซีแลนด์ในโอลิมปิกฤดูร้อน	paM raH theetF niH waM siiM lɛɛM naM nayM ooM limM pikL riH duuM rɔɔnH	0.8428571428571429
+ตามธรรมดา	taamM maM thɔɔnM romM daaM	0.6153846153846154
+ประเทศออสเตรเลียในโอลิมปิกฤดูร้อน	praL thaM seeM ɔɔM saM treeM liaM nayM ooM liH maM pikL rɯH duuM rɔɔH naM	0.7534246575342466
+กลัดหนอง	klatL honR naM aM ŋaM	0.38095238095238093
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF saM witH saM eeM lɛɛM naM nayM ooM liH maM pikL riH duuM haM naaM waM	0.7530864197530864
+วอลเลย์บอลชายชิงแชมป์เอเชีย	wɔɔM laM baM yeeM onM chaayM chiŋM chɛɛM maM eeM chiaM	0.7222222222222222
+กระทรวงคมนาคม	kɔɔM raL thɔɔM raM waM ŋaM khaM maM naakF khaM maM	0.52
+ประกาศนียบัตรชมเชย	paM raL kaatL niiM yaM batL raM chomM chəəyM	0.75
+จาก	caakL	1.0
+สงครามในคริสต์ทศวรรษ	saM ŋaM khaM raaM maM nayM khriH sotL saM wɔɔnR rotH	0.5769230769230769
+กรมวิทยาศาสตร์การแพทย์	kɔɔM raM maM witH yaaM saaR sotL kaaM raM phɛɛM thaM	0.5576923076923077
+จ่านายสิบตำรวจ	caaL naaM yaM sipL tamM ruatF	0.896551724137931
+สุดความสามารถ	sutL khwaamM saaR maaM raM thaM	0.7096774193548387
+กระทรวงการต่างประเทศ	kraL suaŋM kaanM taaŋL praL thaM seeM	0.8378378378378378
+เงินกู้	ŋəənM kuuF	1.0
+จุดมุ่งหมาย	cuL daM muŋL haM maayR	0.5454545454545454
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF saM witL səəM laM nɛɛM nayM ooM limM pikL rɯH duuM haM naawR	0.8611111111111112
+คบคนจรนอนหมอนหมิ่น	khaM baM khonM naM cɔɔM ronM onM haM maM onM naM haM miL naM	0.4
+บุคคลในคริสต์ศตวรรษที่	bukL khaM laM naM khayM khaM ritH sotL watM thiiF	0.6122448979591837
+ประวัติประเทศตะวันออก	paM raL watH paM raH thaM seeM taL wanM ɔɔM kaM	0.6382978723404256
+เกรียวกราว	keeM riiyM wokH raawM	0.5238095238095238
+ประเทศญี่ปุ่นในโอลิมปิกฤดูหนาว	praL theetF yiiF puL naM nayM ooM liH maM piL kriL duuM haM naawR	0.7692307692307692
+ผลงานในคริสต์ทศวรรษ	phonR ŋaanM nayM naM khriH saM thaM suanR raM saM	0.5714285714285714
+วอลเลย์บอลชายชิงแชมป์เอเชีย	wɔɔnM leeM baM onM chaayM chiH ŋaM chɛɛmM eeM chiaM	0.8627450980392157
+สิ้นสุดในคริสต์ศตวรรษที่	sinF suL daM naM khayM riH saM sotL taM wɔɔnM raM saM thiiF	0.5423728813559322
+ประกาศสงคราม	praL kaaM saM soŋR khaM raaM maM	0.65625
+เพลงประจําโรงเรียน	phleeM ŋaM praL camM rooM ŋaM riaM naM	0.7631578947368421
+หวงห้าม	huaŋR haamF	1.0
+รัฐและดินแดนที่ก่อตั้งในคริสต์ศตวรรษที่	ratH lɛH dinM dɛɛnM thiiF kɔɔL taŋF naM khayM riH saM sotL watM thiiF	0.8405797101449275
+นานสองนาน	naanM sɔɔŋR naanM	1.0
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH theeM sotL witH səəM lɛɛnM nayM ooM limM piL krɯL duuM haM naaM waM	0.7333333333333334
+บาทหลวง	baatL thaM lowR ŋaM	0.42105263157894735
+ทุกทิศทุกทาง	thuH kaM thitH saM thuH kaM thaaŋM	0.6470588235294117
+ธรรมศาสตร์บัณฑิต	thamM saaR sotL banM thitH	0.6923076923076923
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raL thaM seeM saM wiH taM saM eeM lɛɛM naM nayM ooM liH maM pikL rɯH duuM rɔɔnH	0.7108433734939759
+บรรทม	bɔɔM raM rotH thaM maM	0.31818181818181823
+กระทรวงทบวงกรม	kɔɔM raL suaŋM thaM baM waM ŋokH raM maM	0.575
+การบ่อนทําลาย	kaaM raM bɔɔL naM thamM laaM yaM	0.65625
+ทางหลวงแผ่นดินหมายเลข	thaaM ŋaM luaŋR phɛɛnL dinM haM maayR leeM khaM	0.7446808510638299
+ม่ายสมทรง	maaF yotH maM soŋM	0.6111111111111112
+บริการย้ายหมวดหมู่	bɔɔM riL kaaM raM yaayH homR maM waM daM muuL	0.6
+กระทรวงทบวงกรม	kɔɔM raH thɔɔnM waM ŋotH buaŋM kromM	0.5277777777777778
+เคล้า	khaM lawH	0.6666666666666667
+ประเทศออสเตรียในโอลิมปิกฤดูร้อน	praL theetF ɔɔtL teeM riiM yaM nayM ooM limM piL kriL duuM rɔɔH naM	0.7611940298507462
+ดวงตราไปรษณียากร	daM woŋM taM raaM paM rayM saM niiR yaaM kɔɔnM	0.7391304347826086
+ประเทศสเปนในโอลิมปิกฤดูร้อน	paM raH theeM sotL peenM nayM ooM limM pikL rɯH duuM rɔɔnH	0.8448275862068966
+โคลนทราย	khooM laM naM saayM	0.5789473684210527
+ผลงานในคริสต์ทศวรรษ	phaM laM ŋaaM naM nayM khritH thotH wɔɔnM rotH	0.6739130434782609
+พระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว	phraH baatL saM maM detL phaM raH cɔɔM maM kaM lawF cawF aM yuuL huaR	0.7536231884057971
+บุคคลในคริสต์ศตวรรษที่	buL khokH khaM laM naM khayM riH sotL taM watM saM thiiF	0.5535714285714286
+หนังสือแสดงความขอบคุณ	naŋR sɯɯR sɛɛR daM ŋokL khaM waaM mokH opL khunM	0.625
+กรมศุลกากร	kɔɔM raM maM suL laM kaakL	0.3846153846153846
+โต้คลื่นลม	tooF khlɯɯnF lomM	1.0
+เลื้อยคลาน	lɯaH yaM khaM laaM naM	0.5454545454545454
+ก่อตั้งในคริสต์ทศวรรษ	kɔɔL taŋF naM khayM riH saM thaM saM wɔɔnM raM saM	0.52
+ย้ายสำมะโนครัวไปอยู่ในคุก	yaayH samR maH naM khooM ruaM payM yuuL nayM khukH	0.88
+ผลงานในคริสต์ทศวรรษ	phonR ŋaaM naM nayM khaM ritH thaM saM wɔɔnM raM saM	0.6153846153846154
+จุลทรรศน์	cunM thɔɔnM raM saM	0.368421052631579
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	kaM lumL phanM thaM miH taM raM paM raL chaatF naM phɯapF raH chaaM thiH paM taM yayM	0.6705882352941177
+ประเทศฟินแลนด์ในโอลิมปิกฤดูหนาว	praL thaM seeM fiH naM laM nɛɛM nayM ooM liH maM pikL riH duuM naawR	0.7352941176470589
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kraL thɔɔnM woŋM theeM khaM nooM looM yiiM saanR sonR thaM seeM lɛH kaaM raM sɯɯL saaR raM	0.6777777777777778
+งานอุทยานสโมสร	ŋaanM naM uL thaM yaanM naM saM mootF	0.6216216216216216
+ประเทศเบลเยียมในโอลิมปิกฤดูหนาว	paM raL thaM seeM beeM laM yiaM maM nayM ooM liH maM piL kriL duuM naawR	0.6805555555555556
+ประเทศนอร์เวย์ในโอลิมปิกฤดูหนาว	praL thaM seeM naM aM weeM nayM ooM limM piL krɯL duuM haM naaM waM	0.6865671641791045
+ความสงบเรียบร้อย	khaM waaM maM saM ŋaM bɔɔM riaM bɔɔM rɔɔH yaM	0.48888888888888893
+กระดาษทิสชูส์	kraL daaM saM thiH saM chuuM	0.6428571428571428
+ประเทศอังกฤษ	paM raL theetF saM aŋM kritL	0.75
+กระโปรงจีบ	kɔɔM raL paM rooŋM ciipL	0.7083333333333333
+กล้องมองลวดลายพลิกแพลง	kaM lɔɔF ŋomM aM ŋonM wotH laayM phlikH phlɛɛŋM	0.6382978723404256
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	praL thaM seeM saM wiiM daM neeM nayM ooM liH maM piL kriL duuM haM naaM waM	0.6578947368421053
+ทัพหลวง	thapH honR laM waM ŋaM	0.40909090909090906
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM saM witH səəM lɛɛnM nayM ooM liH maM piL krɯL duuM naawR	0.7972972972972973
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kraL thɔɔM ruaŋM theekF nooM looM yiiM saaR raM saM naM thaM seeM lɛH kaanM sɯɯL saanR	0.7325581395348837
+วรรณกรรมในคริสต์ทศวรรษ	wɔɔnM ronM kɔɔnM romM naM khayM ritH thotH wanM saM	0.5686274509803921
+ความดันของบรรยากาศ	khwaamM maM danM khɔɔR ŋaM bɔɔM rɔɔnM yaaM kaatL	0.6875
+ประเทศโปแลนด์ในโอลิมปิกฤดูหนาว	paM raH theetF pooM lɛɛM naM nayM ooM liH maM pikL riH duuM naawR	0.8307692307692307
+ประเทศนอร์เวย์ในโอลิมปิกฤดูหนาว	paM raH theeM sonR aM weeM nayM ooM limM piL krɯL duuM naawR	0.7666666666666666
+หมายสั่งปล่อย	haM maayR saŋL paM lɔɔF yaM	0.5925925925925926
+ของแกล้ม	khaM oŋM kɛɛM lomH	0.38888888888888884
+ทางหลวงแผ่นดินหมายเลข	thaaM ŋaM honR woŋM phɛɛnL dinM naM maaR yaM leeM khaM	0.5555555555555556
+กระทรวงคมนาคม	kɔɔM raH thɔɔM raM waM ŋaM khomM maM naaM khomM	0.5531914893617021
+เกลอแก้วเกลอขวัญ	kaM leeM aM kɛɛwF keeM laM okL wanM	0.48571428571428577
+นักกายกรรมโลดโผน	nakH kaaM yaM kraM romM looM daM phooR naM	0.5952380952380952
+ค่าหมอ	khaaF mɔɔR	1.0
+กองเงินทุนระหว่างประเทศ	kaM oŋM ŋəənM thunM raH haM waaF ŋaM praL thaM seeM	0.6470588235294117
+โรงเรียนเตรียมอุดมศึกษา	rooŋM riaM naM taM riamM maM uL domM maM sɯkL saaR	0.72
+บวงสรวง	baM waM ŋotH ruaŋM	0.38888888888888884
+เครื่องบินซึ่งไม่ปรากฏสัญชาติ	khaM rɯaŋF biL naM sɯŋF mayF praakL taM sanR chaatF	0.7647058823529411
+คร่าว	khaM raaF waM	0.46153846153846156
+กระปวกกระเปียก	kraL puakL kaM kraL piakL	0.84
+ขุดด้วยปากถากด้วยตา	khuL daM duayF paakL kaM thaakL dowF yaM taaM	0.6666666666666667
+ปรากฏการณ์ธรรมชาติ	paM raakL taM kaaM raM thɔɔnM romM maM chaatF	0.5555555555555556
+แม่น้ําลําคลอง	mɛɛF namH lamM khaM laM aM ŋaM	0.6666666666666667
+วันกรรมกร	wanM kɔɔM raM raM mokH	0.40909090909090906
+คบคนจรหมอนหมิ่น	khopH khonM cɔɔnM haM mɔɔnR haM minL	0.7777777777777778
+ประเทศญี่ปุ่นในโอลิมปิกฤดูร้อน	praL thaM seeM yiiF punL nayM ooM liH maM pikL rɯH duuM rɔɔnH	0.8524590163934427
+การเลือกตั้งประธานาธิบดีสหรัฐอเมริกา	kaanM lɯaM kaM taŋF praL thaaM naaM thiH baM diitL haM ratL aM meeM riH kaaM	0.8441558441558441
+ครอบคลุม	khaM raM opL khlumM	0.5789473684210527
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM saM wiH taM saM eeM lɛɛnM nayM ooM limM piL krɯL duuM naaR waM	0.6875
+แปรเปลี่ยน	paM rɛɛM peeM liiyF naM	0.4347826086956522
+เทนนิส	thaM neeM nitH	0.6428571428571428
+แจ้งความ	cɛɛŋF khwaamM	1.0
+ประเทศโปแลนด์ในโอลิมปิกฤดูหนาว	paM raH theetF pooM lɛɛnM nayM ooM liH maM piL kriL duuM haM naawM	0.7575757575757576
+ความเร็วของแสง	khaM waaM mɔɔM rewM khɔɔR ŋaM sɛɛR ŋaM	0.6052631578947368
+ประเทศฝรั่งเศสในโอลิมปิกฤดูหนาว	praL thaM seeM faM raŋF saM seeR nayM ooM limM piL kriL duuM haM naawM	0.7
+กรมสอบสวนคดีพิเศษ	kromM maM sɔɔpL saM wonM khaM diiM phiH saM seeR	0.6666666666666667
+ประเทศออสเตรียในโอลิมปิกฤดูร้อน	paM raL theeM saM ɔɔtL teeM riiyM nayM ooM liH maM pikL riH duuM rɔɔnH	0.7428571428571429
+ทางหลวงแผ่นดินหมายเลข	thaaM ŋaM honR woŋM phɛɛnL dinM naM maaR yaM laM kheeM	0.5185185185185186
+บุคคลในคริสต์ศตวรรษที่	bukL khonM nayM khriH sotL taM watM thiiF	0.8780487804878049
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM saM wiH taM seeM aM lɛɛnM nayM ooM limM piL krɯL duuM naawR	0.7272727272727273
+คบคนจรนอนหมอนหมิ่น	khopH khaM naM cɔɔM raM nɔɔnM haM mɔɔnM haM minF	0.625
+ทางหลวงแผ่นดินหมายเลข	thaaŋM luaŋR phɛɛL naM dinM haM maayM leekF	0.7906976744186046
+พระราชธิดาในรัชกาลที่	phraH raatF chaM thiH daaM nayM ratH chaM kaanM thiiF	1.0
+กระดาษเงินกระดาษทอง	kɔɔM raH daaM saM ŋəənM kɔɔM raH daatL saM thaM oŋM	0.5490196078431373
+เซื่อง	sɯaŋF	1.0
+ปลุก	paM lukL	0.625
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raH theeM saM ɔɔM saM teeM riiyM nayM ooM liH maM pikL riH duuM haM naawR	0.6363636363636364
+ดินดำ	dinM damM	1.0
+มหาวิทยาลัยหอการค้าไทย	maM haaR wiH thaM yaaM layM hɔɔR kaaM raM khaaH thayM	0.8301886792452831
+ตักบาตรอย่าถามพระ	takL kaM baaM taM rɔɔM yaaF thaamR maM phraH	0.5909090909090908
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	praL theetF aM otL teeM riiM yaM nayM ooM liH maM piL kriL duuM naaR waM	0.6805555555555556
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH thaM seeM saM wiL taM saM eeM laM nɛɛM nayM ooM liH maM piL krɯL duuM naaR waM	0.6046511627906976
+สถาบันอุดมศึกษาไทย	saM thaaR banM uL domM sɯL kaM saaR thayM	0.9024390243902439
+ฝ่ายค้าน	faaL yaM khaaH naM	0.5555555555555556
+บุคคลในคริสต์ศตวรรษที่	buL khaM khonM naM khayM khaM riH saM saM tuanM raM saM thiiF	0.5737704918032787
+ใจบาปหยาบช้า	cayM baapL yaaR baM chaaH	0.8
+ประเทศอุรุกวัยในโอลิมปิกฤดูร้อน	paM raL theeM saM uL rukH wayM nayM ooM liH maM piL kriL duuM rɔɔH naM	0.7285714285714286
+ห้องสมุดประชาชน	hɔɔF ŋotH muH daM praL chaaM chaM naM	0.6216216216216216
+คลึ่นลมหนาว	khlɯF nonM maM haM naawM	0.5416666666666667
+สมเด็จพระเจ้าบรมวงศ์เธอ	saM maM detL phraH cawF bɔɔM romM waM ŋaM theeM aM	0.62
+ประเทศฟินแลนด์ในโอลิมปิกฤดูหนาว	paM raL theeM saM fiH naM laM nɛɛM nayM ooM liH maM piL krɯL duuM haM naawR	0.6533333333333333
+ประเทศนอร์เวย์ในโอลิมปิกฤดูร้อน	praL theeM saM naM aM weeM nayM ooM liH maM pikL riH duuM rɔɔH naM	0.7424242424242424
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM saM witL seeM aM lɛɛM naM nayM ooM limM pikL rɯH duuM haM naaM waM	0.6904761904761905
+ประเทศกรีซในโอลิมปิกฤดูร้อน	paM raH thaM seeM kɔɔM riitF nayM ooM limM piL krɯL duuM rɔɔH naM	0.6615384615384615
+บุคคลที่เกิดในคริสต์ศตวรรษที่	buL khaM khonM thiiF kəətL nayM khaM riH saM sotL wanM saM thiiF	0.71875
+มหาบพิตร	maM haaR bɔɔM phitH	1.0
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kraL suaŋM theekF nooM looM yiiM saaR rotH naM theeM saM lɛH kaanM sɯɯL saaR	0.8289473684210527
+เกล้ากระหม่อมฉัน	klawF kraL mɔɔmL chanR	1.0
+เพลงที่สมัยนิยม	pheeM laM ŋaM thiiF saM mayR yaM niH yaM maM	0.6363636363636364
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raH theeM saM ɔɔM saM triaM nayM ooM liH maM piL krɯL duuM haM naawM	0.6527777777777778
+ทุกสิ่งทุกอย่าง	thukH kaM siL ŋaM thuH kaM aM yaaL ŋaM	0.5
+ย้ายสำมะโนครัวไปอยู่ในคุก	yaayH samR maH nooM khruaM paM ayM yuuF nayM khuH kaM	0.8490566037735849
+คนผิวเนื้อสองสี	khonM naM phiL waM nɯatH oŋM siiR	0.6060606060606061
+พระพุทธมนต์	phraH phuH thotH thaM maM naM	0.6896551724137931
+ประเทศฟินแลนด์ในโอลิมปิกฤดูหนาว	praL thaM seeM fiH naM laM nɛɛM nayM ooM limM piL kriL duuM haM naawR	0.6811594202898551
+เครื่องเปิดกระป๋อง	khrɯaF ŋaM pəətL kɔɔM raL pɔɔŋR	0.7419354838709677
+ผลพลอยได้	phaM lopH phaM lɔɔM yaM dayF	0.5714285714285714
+คนผอมกะหร่อง	khonM naM phɔɔR maM kaL haM rɔɔF ŋaM	0.5555555555555556
+คบคนจรนอนหมอนหมิ่น	khopH khonM cɔɔnM nɔɔnM naM haM maM aM naM minL	0.6595744680851063
+ความคิดความอ่าน	khaM waamM maM khiH dokL waamM maM aaL naM	0.5238095238095238
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM saM wiL taM səəM laM nɛɛM nayM ooM limM piL krɯL duuM naaR waM	0.6875
+เครื่องถม	kheeM rɯɯF ŋotH maM	0.368421052631579
+สํานักงานคณะกรรมการพัฒนาการเศรษฐกิจและสังคมแห่งชาติ	samR nakH ŋaaM nokH naH kɔɔM raM romM kaaM raM phatH naaM kaaM raM saM reetL thaM kiL caM lɛH saŋR khomM hɛɛL ŋaM chaatF	0.7083333333333333
+กระโปรงบานขาสั้น	kɔɔM raH pooM raM ŋaM baaM naM khaaR sanF	0.6097560975609756
+กล่องแยกทางหลวง	kaM lɔɔŋF yɛɛM kaM thaaŋM honR laM waM ŋaM	0.5
+ประเทศฝรั่งเศสในโอลิมปิกฤดูหนาว	praL theetF faM raŋL saM seeR nayM ooM liH maM pikL riH duuM naawR	0.8333333333333334
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	paM raL theeM sotL wiiM deenM nayM ooM limM piL kriL duuM haM naawR	0.7611940298507462
+ประเทศฟินแลนด์ในโอลิมปิกฤดูหนาว	praL theeM saM fiH naM lɛɛM naM nayM ooM limM pikL riH duuM naaR waM	0.7647058823529411
+ความกงโก้กงกก	khaM waamM maM kaM ŋaM kooF kaM ŋokL kaM	0.55
+ไก่ชน	kayL chonM	1.0
+ไปรษณียากร	payM paM rotH niiM yaakF	0.48
+กระทรวงการต่างประเทศ	kɔɔM raH thɔɔnM woŋM kaanM taaŋL paM raH theetF	0.6170212765957447
+สงครามในคริสต์ทศวรรษ	saM ŋokH khaM raamM nayM naM khaM ritH thaM saM watM	0.6153846153846154
+ถนนพุทธมณฑล	thaM nonM phuH thaM thaM monM naM thonM	0.7435897435897436
+มหาวิทยาลัยนเรศวร	maM haaR witH yaaM layM naM reeM saM waM	0.7441860465116279
+รัฏฐาธิปไตย	ratH thaaR thipH tayM taM yaM	0.8275862068965517
+พระราชบัญญัติว่าด้วยบริษัท	phraH raatF banM yaM yatH waaF duayF bɔɔM riH satL	0.9
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kɔɔM raL sowM ŋaM theeM khaM nooM looM yiiM saanR saM naM thaM seeM lɛH kaanM sɯɯL saaR raM	0.6703296703296704
+คณะกรรมการการเลือกตั้ง	khaM naH kɔɔM raM romM maM kaanM kaaM raM lɯaM kaM taŋF	0.6909090909090909
+กรรมตรง	kanM motH roŋM	0.6428571428571428
+ม้าหมากรุก	maaH maakL kɔɔM ruH kaM	0.6086956521739131
+เครื่องปรุงรส	khaM rɯaF ŋaM paM ruL ŋɔɔnM saM	0.3870967741935484
+พระราชพิธีมหามงคลเฉลิมพระชนมพรรษา	phraH raaM chaM phiH thiiM maM haamR ŋaM khonM cheeR liH mopH raH chaM nomM phɔɔnM raM saaR	0.7032967032967032
+กระทรวงเศรษฐการ	kraL thɔɔM ruaŋM saM reetL thaM kaaM	0.6666666666666667
+บุคคลในคริสต์ศตวรรษที่	bukL khaM khonM nayM khaM riH saM saM taM watM thiiF	0.7307692307692308
+กีฬากระโดดน้ําในโอลิมปิกฤดูร้อน	kiiM laaM kraL daM dooM namH nayM ooM liH maM piL kriL duuM rɔɔnH	0.8
+ยานพาหนะ	yaaM naM phaaM haM naL	0.8181818181818181
+กดกระดิ่ง	kotL kɔɔM raL diL ŋaM	0.6190476190476191
+กระปุกใส่เหล้าสาเก	kɔɔM raH puL kaM sayL heeR laaH saaR keeM	0.6097560975609756
+ถมทอง	thomR thɔɔM ŋaM	0.8
+สงครามในคริสต์ทศวรรษ	saM ŋaM khraaM maM nayM naM khritH thaM saM watM	0.6666666666666667
+สนองตอบ	sonR aM ŋaM tɔɔpL	0.5294117647058824
+โรงเรียนประถมศึกษา	raM ŋooM rianM naM paM raL thaM maM sɯL kaM saaR	0.5625
+บุคคลในคริสต์ศตวรรษที่	buL khaM khonM naM khayM khaM ritH saM taM watM saM thiiF	0.6842105263157895
+คบคนจรนอนหมอนหมิ่น	khaM bokL notH raM nɔɔnM haM maM onM naM haM minF	0.36734693877551017
+ขาดเหลือ	khaatL haM lɯaR	0.7333333333333334
+คบคนจรนอนหมอนหมิ่น	khaM baM khaM naM cɔɔM ronM onM haM mɔɔnR miL naM	0.5306122448979591
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kraL sowM ŋaM theeM khaM nooM looM yiiM saanR saM naM theetF lɛH kaaM raM sɯɯL saaR	0.7590361445783133
+สัมพันธ์	samR phanM	1.0
+รัฐกิจ	ratH kiL caM	0.5833333333333333
+ประเทศโปแลนด์ในโอลิมปิกฤดูหนาว	paM raH theeM saM pooM laM nɛɛM nayM ooM limM piL krɯL duuM naaR waM	0.6911764705882353
+อาณาบริเวณ	aaM naaM bɔɔM riH weeM naM	0.8846153846153846
+ตำรวจทางหลวง	tamM raM wotH caM thaaŋM luaŋR	0.6666666666666667
+ประหนึ่ง	paM raL haM nɯŋL	0.5625
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH thaM seetF witH seeM aM lɛɛnM nayM ooM limM pikL rɯH duuM naawR	0.7605633802816901
+แผล	phɛɛR laM	0.4444444444444444
+ประเทศญี่ปุ่นในโอลิมปิกฤดูหนาว	paM raL theetF yiiF puL naM nayM ooM limM pikL riH duuM haM naawR	0.8153846153846154
+คบคนจรนอนหมอนหมิ่น	khopH khonM naM cɔɔM ronM aM naM haM mɔɔnM naM minL	0.5882352941176471
+คบคนจรนอนหมอนหมิ่น	khaM baM khaM notH cɔɔM raM naM onM mɔɔnR minL	0.5652173913043479
+ฉบับราชบัณฑิตยสถาน	chaM bapL raatF banM thiH taM yotL thaaR naM	0.6
+เจย์	ceeM	1.0
+ดินสอพอง	diL naM saM opL phaM oŋM	0.45833333333333337
+คณิตศาสตร์	khaM niH taM saatL taM	0.6363636363636364
+สิ้นปี	siF naM piiM	0.6666666666666667
+บุคลิก	bukL khaM likH	1.0
+เยี่ยม ๆ มอง ๆ	yiamF yiamF maM oŋM oŋM	0.6956521739130435
+แซน	sɛɛnM	1.0
+สํานักงานปลัดกระทรวง	samR nakH kaM ŋaaM nopH paM latH kɔɔM raL thɔɔnM woŋM	0.5094339622641509
+สถานที่สําหรับปลูกสร้าง	saM thaanR thiiF samR haM rapL pluuM kaM saaF ŋaM	0.7551020408163265
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raH theetF ɔɔtL triaM nayM ooM limM pikL riH duuM haM naawR	0.8571428571428572
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL thaM seeM saM wiL taM səəM lɛɛnM nayM ooM limM piL kriL duuM haM naawR	0.76
+ประเทศอินโดนีเซีย	praL theeM saM inM dooM niiM siaM	0.8484848484848485
+สยามบรมราชกุมารี	saM yaaR maM bɔɔM romM raatF kuL maaM riiM	0.9047619047619048
+หมู่บ้าน	haM muuF baaF naM	0.47058823529411764
+รัฐมนตรี	ratH monM triiM	0.75
+ความคุ้มครอง	khwaaM maM khuH maM khɔɔnM oŋM	0.6
+กระทรวงต่างประเทศ	kɔɔM raH thɔɔM ruaŋM taaL ŋopH raH thaM seeM	0.4545454545454546
+หมดอาลัยตายอยาก	haM maM daM aaM layM yaM taaM yaM yaakL	0.5641025641025641
+หลุม	haM lumR	0.5
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raH theeM sotL witH saM eeM laM nɛɛM nayM ooM liH maM pikL rɯH duuM rɔɔH naM	0.675
+ตามกว้าง	taamM kaM waaH ŋaM	0.6111111111111112
+กฤดากร	kɔɔM riH daakL kɔɔM raM	0.5217391304347826
+หน้าต่างมุ้งลวด	haM naaH taaŋL muŋH laM waM daM	0.5483870967741935
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	praL theetF saM wiiR daM neeM nayM ooM liH maM pikL riH duuM haM naaM waM	0.7534246575342466
+ขอแสดงความยินดีด้วย	khɔɔR saM dɛɛŋR khwaaM maM yinM diiM duayF	0.9285714285714286
+บ้านหลวง	baanF haM lowR ŋaM	0.4444444444444444
+กรมประชาสัมพันธ์	kromM paM raH chaaM samR maM phanM	0.7647058823529411
+วอลเลย์บอลชายชิงแชมป์โลก	wɔɔM laM baM yeeM onM chaaM yaM chiH ŋaM chɛɛmM looM kaM	0.6071428571428572
+ภาพยนตร์ไทย	phaapF yaM notH thaM yayM	0.6
+คบคนจรนอนหมอนหมิ่น	khaM bokL notH ronM aM naM haM maM onM haM minF	0.36170212765957444
+กล้องมองลวดลายพลิกแพลง	kaM lɔɔH ŋomM aM ŋaM laM wotH laayM phliH kaM phaM lɛɛŋM	0.5535714285714286
+ก๋วยเตี๋ยวราดหน้ายอดผัก	kowR yaM tiawR raatF naayF otL phakL	0.6944444444444444
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH theeM sotL witH seeM aM lɛɛnM nayM ooM limM pikL rɯH duuM haM naaM waM	0.717948717948718
+ประเทศชนะสงคราม	paM raL theetF chaM naH saM ŋokH raamM	0.736842105263158
+โฮมออฟฟิศ	hooM maM ɔɔM faM fitH	0.6190476190476191
+ประเทศญี่ปุ่นในโอลิมปิกฤดูหนาว	paM raL theeM saM yiiL puL naM nayM ooM limM piL krɯL duuM haM naaR waM	0.6619718309859155
+พอหอมปากหอมคอ	phaM aM haM aM maM paakL haM omM khɔɔM	0.5526315789473684
+พระราชกําหนด	phraH raatF kamM honR daM	0.72
+กลับประเทศของตน	klapL paM raH thaM seekF oŋM taM naM	0.5
+ประเทศฝรั่งเศสในโอลิมปิกฤดูหนาว	praL thaM seeM faM raŋF seeR saM nayM ooM limM piL kriL duuM haM naaR waM	0.6849315068493151
+บทความคัดสรร	botL thaM khaM waaM maM khatH sɔɔnR raM	0.5641025641025641
+ประเทศสวีเดนในโอลิมปิกฤดูร้อน	praL thaM seeM saM wiiM deeM naM nayM ooM limM pikL rɯH duuM rɔɔnH	0.8636363636363636
+ขนลุกขนชัน	khonR lukH kaM khaM naM chanM	0.6896551724137931
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF saM witL səəM lɛɛM naM nayM ooM limM pikL riH duuM haM naaM waM	0.8266666666666667
+น้ำตาลใกล้มด	namH taanM kaM layF motH	0.875
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	praL theeM sɔɔR otL teeM riiyM nayM ooM limM pikL riH duuM naawR	0.796875
+อานนท์	aanM naM naM	0.5833333333333333
+ผันแปร	phanR pɛɛnM	0.8181818181818181
+ประเทศนอร์เวย์ในโอลิมปิกฤดูหนาว	paM raH thaM seeM nɔɔM weeM nayM ooM liH maM piL krɯL duuM haM naawM	0.6911764705882353
+กายกรรม	kaayM kɔɔM raM raM maM	0.4545454545454546
+กรอบแกรบ	krɔɔpL krɛɛM baM	0.6875
+สํานักงานตํารวจแห่งชาติ	samR nakH ŋaanM tamM raM waM caM hɛɛŋL chaatF	0.8
+แตกกิ่ง	tɛɛM kaM kiŋL	0.6923076923076923
+กระทรวงเศรษฐการ	kɔɔM raH thɔɔnM woŋM seeR raM saM thaM kaaM raM	0.42553191489361697
+ประเทศออสเตรียในโอลิมปิกฤดูร้อน	praL thaM seeM ɔɔM saM taM riaM nayM ooM limM piL kriL duuM rɔɔnH	0.7230769230769231
+กระสุนหลอก	kɔɔM raL sunR naM haM lɔɔM kaM	0.4666666666666667
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	praL theeM saM saM wiL taM səəM laM nɛɛM nayM ooM limM piL krɯL duuM rɔɔH naM	0.7272727272727273
+ผลิตภัณฑ์พลอยได้	phaM liL taM phanM phonM aM yaM dayF	0.5833333333333333
+วอลเลย์บอลชายชิงแชมป์เอเชีย	wɔɔnM leeM baM onM chaaM yaM chiŋM chɛɛM maM eeM chiaM	0.8148148148148149
+ขบวนรถธรรมดา	khopL wonM raM thaM thɔɔnM romM daaM	0.5
+กองเงินทุนระหว่างประเทศ	kɔɔŋM ŋəənM naM thunM raH haM waaL ŋaM paM raL theetF	0.7169811320754718
+องค์กรปกครองส่วนท้องถิ่น	oŋM kɔɔM ropH kokL raM oŋM sowL naM thɔɔŋH thinL	0.6458333333333333
+สงครามในคริสต์ทศวรรษ	saM ŋokH raaM maM nayM naM khriH sotL saM wɔɔnM rotH	0.5192307692307692
+ลูกกระสุนปืนใหญ่	luuM kaM kɔɔM raL sunR naM pɯɯnM haM yayL	0.6097560975609756
+ประเทศอาร์เจนตินาในโอลิมปิกฤดูร้อน	paM raH theetF aaM caM neetL naaM nayM ooM liH maM piL kriL duuM rɔɔH naM	0.7123287671232876
+บุคคลในคริสต์ศตวรรษที่	buL khokH khaM laM nayM khaM ritH saM taM wɔɔnM rotH thiiF	0.6379310344827587
+ประกันสุขภาพ	paM raL kanM suL khaM phaapF	0.8571428571428572
+ท้องที่กันดาร	thɔɔŋH thiiF kanM naM daanM	0.8518518518518519
+กล้องมองลวดลายพลิกแพลง	klɔɔF ŋomM aM ŋonM wotH laaM yopH liH kaM phlɛɛM ŋaM	0.5
+ฟางเส้นสุดท้าย	faaM ŋaM seeF naM suL daM thaayH	0.625
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	praL thaM səəM otL teeM riiyM nayM ooM limM pikL rɯH duuM haM naaR waM	0.6714285714285715
+ประเทศสังคมนิยม	paM raL theetF saM saŋR khomM maM niH yaM maM	0.6666666666666667
+กระปอดกระแปด	kraL paM otL kɔɔM raH pɛɛtL	0.6666666666666667
+ถดถอย	thaM dotL oyM	0.3076923076923077
+ประเทศสเปนในโอลิมปิกฤดูร้อน	paM raH theeM sotL paM neeM nayM ooM liH maM pikL riH duuM rɔɔH naM	0.7014925373134329
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL thaM seeM saM witL saM eeM lɛɛM naM nayM ooM limM piL krɯL duuM naawR	0.7567567567567568
+คบคนจรนอนหมอนหมิ่น	khopH khaM notH raM nɔɔM naM haM mɔɔnM haM minL	0.5531914893617021
+ปรับปรุงหน้าอัตโนมัติ	prapL paM ruŋM haM naaF atL nooM matH	0.8108108108108107
+สิ้นสุดในคริสต์ศตวรรษที่	sinF suL daM nayM naM khritH sotL wanM saM thiiF	0.6458333333333333
+เสนาธิการ	saM nawR thiH kaanM	0.75
+กระทรวงพลังงาน	kɔɔM raH thɔɔM rowM ŋopH phaM laŋM ŋaanM	0.44999999999999996
+ประเทศอินเดียในโอลิมปิกฤดูร้อน	praL thaM seeM inM diaM nayM ooM liH maM pikL rɯH duuM rɔɔH naM	0.7936507936507937
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	kaM luF maM phanM thaM miH taM raM paM raL chaaM chonM phɯaF paM raL chaaM thiH paM taM yayM	0.7173913043478262
+คบคนจรนอนหมอนหมิ่น	khaM bokL khaM notH raM naM onM naM haM mɔɔnR haM miF naM	0.42105263157894735
+โครงการ	khrooM ŋaM kaaM raM	0.631578947368421
+คอนกรีตเสริมเหล็ก	khɔɔM nokH kɔɔM riitF səəmR haM lekL	0.6111111111111112
+ประเทศโปแลนด์ในโอลิมปิกฤดูหนาว	paM raH theetF pooM laM nɛɛM nayM ooM limM pikL riH duuM naawR	0.8387096774193549
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	paM raH thaM seeM saM wiiR deenM nayM ooM limM pikL riH duuM naaR waM	0.7681159420289855
+สมเด็จพระราชินีแห่งอังกฤษ	saM maM detL phraH raaM chiH niiM hɛɛL ŋaM aŋM krɯtL	0.8076923076923077
+ก่อตั้งในคริสต์ศตวรรษที่	kɔɔL taŋF nayM khriH saM sotL wɔɔnM rotH thiiF	0.7608695652173914
+กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์	kɔɔM raL thɔɔM ruaŋM kaaM raM phatH naaM saŋR khomM lɛH khwaaM maM manF khaM ŋokH aM ŋaM maM nuH saM	0.6599999999999999
+กางเกงลิง	kaaŋM keeŋM liŋM	1.0
+สุนัขกลางถนน	suL nakH klaaŋM thonR naM	0.76
+กฎหมายระหว่างประเทศ	kotL haM maayM raH waaL ŋaM paM raH theeM saM	0.6
+หลายครั้งหลายหน	laayR khraŋH laayR yaM haM naM	0.7
+หยาบโลน	yaaR baM laM nooM	0.4117647058823529
+ใจคอกว้างขวาง	cayM caM khɔɔM kaM waaŋF khwaaR ŋaM	0.6857142857142857
+เกลี้ยกล่อม	keeM liiyH kaM lɔɔmF	0.44999999999999996
+คบคนจรนอนหมอนหมิ่น	khopH khonM cɔɔnM nɔɔnM naM haM mɔɔR naM haM miL naM	0.6153846153846154
+ปริปาก	paM riH paaM kaM	0.5
+ซิมโฟนีหมายเลข	simM fooM niiM haM maayM leekF	0.8333333333333334
+รับสินบาดดวดสินบน	rapH sinR baatL daM waM daM sinR baM naM	0.675
+คบคนจรนอนหมอนหมิ่น	khaM baM khaM naM cɔɔM ronM aM naM haM mɔɔnR haM miF naM	0.4642857142857143
+ขีปนาวุธ	khiipL paM naaM wuH thaM	0.625
+ประชิด	praL chiH daM	0.6153846153846154
+เปรียบเทียบ	paM riapL thiaM baM	0.5789473684210527
+ผู้อํานวยการสร้าง	phuuF amM naM waM yaM kaaM raM saM raaH ŋaM	0.5581395348837209
+พึ่งพิง	phɯF ŋaM phiH ŋaM	0.5882352941176471
+ความสัมพันธ์ทางการทูต	khaM waamM samR phanM thaaŋM kaaM raM thuuM taM	0.7659574468085106
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theetF saM witH seeM aM lɛɛnM nayM ooM limM piL krɯL duuM naawR	0.8450704225352113
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theeM saM saM wiL taM səəM laM nɛɛM nayM ooM limM piL krɯL duuM naawR	0.7702702702702703
+สวดมนตร์สวดพร	saM wotL maM notH saM wotL phaM	0.3870967741935484
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theeM saM neeM thaM eeM lɛɛM naM nayM ooM limM piL kriL duuM naawR	0.7605633802816901
+อึ่งอ่าง	ɯŋL aaL ŋaM	0.6363636363636364
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	praL theetF saM wiiM deeM naM nayM ooM limM pikL rɯH duuM naawR	0.9523809523809523
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM neeM theeM aM lɛɛnM nayM ooM limM piL kriL duuM haM naawR	0.7066666666666667
+กึ่งโปร่งแสง	kɯŋL prooŋL sɛɛŋR	1.0
+สมพร	saM maM phaM raM	0.375
+เครื่องใช้สอยประจําวัน	khaM rɯaŋF chayH sɔɔyR praL camM wanM	0.9189189189189189
+กลางคน	kaM laaŋM khonM	0.8
+บุคคลในศตวรรษที่	buL khaM khaM laM nayM naM saM taM wɔɔnM raM saM thiiF	0.537037037037037
+ยอดเยี่ยมกระเทียมดอง	yɔɔM daM yiaF mokH raH thiamM dɔɔM ŋaM	0.631578947368421
+พอสถานประมาณ	phɔɔM saM thaaR naM praL maanM	0.8666666666666667
+รายชื่อภาพยนตร์ไทย	raayM yaM chɯɯF phaapF phaM yonM taM thayM yaM	0.7391304347826086
+จงล้างจงผลาญ	coŋM laaH ŋotH ŋaM phlaaR yaM	0.6206896551724138
+ก่อสร้าง	kɔɔL saM raaH ŋaM	0.5294117647058824
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM saM witH səəM lɛɛM naM nayM ooM limM piL kriL duuM haM naaM waM	0.7037037037037037
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kɔɔM raL suaŋM theeM khaM nooM looM yiiM saaR rotH naM theetF lɛH kaanM sɯɯL saaR raM	0.7529411764705882
+ประเทศสวีเดนในโอลิมปิกฤดูร้อน	praL theetF saM wiiR daM neeM nayM ooM liH maM pikL riH duuM rɔɔH naM	0.7971014492753623
+ผลัดแผ่นดิน	phaM latL phɛɛL naM diL naM	0.6296296296296297
+หมาเห็นเครื่องบิน	haM maaR henR khrɯaF ŋaM biL naM	0.65625
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM saM witH səəM lɛɛM naM nayM ooM limM piL kriL duuM naawR	0.7837837837837838
+คบคนจรนอนหมอนหมิ่น	khaM baM khonM naM cɔɔM raM nɔɔM naM haM mɔɔnM naM haM miF naM	0.4516129032258065
+บรรเลงเพลง	bɔɔnM raM leeŋM pheenM laM ŋaM	0.5
+หนังสือแสดงความขอบคุณ	haM naŋM sɯɯR sɛɛR daM ŋokH waaM maM khɔɔpL khuH naM	0.5961538461538461
+สรุปเหรียญโอลิมปิกฤดูหนาว	saM ruH paM heeR riiyM yaM ooM liH maM pikL rɯH duuM haM naaM waM	0.5846153846153845
+กลอกหน้ากลอกตา	klɔɔkL naaF klɔɔkL taaM	1.0
+ขนคิ้ว	khonR naM khiwH	0.7333333333333334
+บุคคลที่เสียชีวิตในคริสต์ศตวรรษที่	buL khokH laM thiiF siaR chiiM witH nayM khaM riH sotL taM wanM saM thiiF	0.7397260273972603
+เศรษฐศาสตร์	seeR rotH saM thaM saatL taM	0.5357142857142857
+รายชื่อภาพยนตร์ไทย	raayM chɯɯF phaapF yaM naM taM thayM yaM	0.7
+สรุปเหรียญโอลิมปิกฤดูร้อน	saM rupH haM rianR ooM liH maM piL krɯL duuM rɔɔnH	0.78
+หอยนางรม	hɔɔyR yaM naaM ŋɔɔnM maM	0.5
+ตำรวจภูธร	tamM ruatF caM phuuM thɔɔnM	0.8518518518518519
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH thaM seeM saM wiL taM seeM aM laM nɛɛM nayM ooM limM pikL riH duuM haM naaR waM	0.6206896551724138
+ข้าวตอกดอกไม้	khaawF taM okL dɔɔM kaM mayH	0.7142857142857143
+ความอยากรู้อยากเห็น	khaM waamM aM yaaM kruuF aM yaakL henR	0.6578947368421053
+เครื่องบินประจัญบาน	khrɯaF ŋaM binM naM praL canM baaM naM	0.7105263157894737
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF saM wiH taM səəM laM nɛɛM nayM ooM limM piL kriL duuM haM naawM	0.76
+เคราะห์ซ้ำกรรมซัด	khrɔH samH kraM romM maM satH	0.6896551724137931
+กล้องมองลวดลายพลิกแพลง	kaM lɔɔŋH maM aM ŋonM waM daM laaM yopH likH phaM lɛɛŋM	0.509090909090909
+กินแหนงเคลงใจ	kinM hɛɛnR ŋaM khaM leeŋM cayM	0.7
+เกรงกลัว	kreeM ŋaM kaM luaM	0.6666666666666667
+คบคนจรนอนหมอนหมิ่น	khaM bokL notH raM naM onM homR maM onM miL naM	0.34042553191489366
+อกกรม	aM kokL kɔɔM raM maM	0.4
+โกฐก้านมะพร้าว	kaM thooM kaaF naM maH phraawH	0.6333333333333333
+นิวเคลียร์	niwM khliaM	1.0
+หมดเปลือง	haM motH plɯaM ŋaM	0.5555555555555556
+ตลอดรอดฝั่ง	taM lɔɔtL raM otL faŋL	0.7727272727272727
+ประเทศฝรั่งเศสในโอลิมปิกฤดูร้อน	paM raH thaM seeM faM raŋL seeR saM nayM ooM liH maM pikL riH duuM rɔɔnH	0.7222222222222222
+คนหงิมๆ	khonM haM ŋiH maM maM	0.33333333333333337
+ตํารวจนอกเครื่องแบบ	tamM rowM caM nɔɔkF kheeM rɯɯF ŋaM baM bɛɛM	0.4883720930232558
+รางวัลนาฏราช	raaM ŋaM wanM laM naaM taM raatF	0.65625
+ดูหมิ่น	duuM miL naM	0.6666666666666667
+ข้าวหมูกรอบ	khaawF muuR kɔɔM rɔɔpL	0.8181818181818181
+ประเทศออสเตรเลียในโอลิมปิกฤดูร้อน	paM raL thaM seeM ɔɔM saM teenM liaM nayM ooM liH maM piL krɯL duuM rɔɔnH	0.6986301369863014
+ได้รับแต่งตั้งให้ดำรงตำแหน่ง	dayF rapH tɛɛŋL taŋF hayF damM roŋM tamM haM nɛɛŋL	0.92
+กล้องมองลวดลายพลิกแพลง	kaM lɔɔŋH mɔɔM ŋaM luatF laayM phaM likH phɛɛnM ŋaM	0.7058823529411764
+กล้องมองลวดลายพลิกแพลง	kaM lɔɔŋH maM oŋM luatF laaM yaM phlikH phɛɛM loŋM	0.6799999999999999
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raL thaM seeM saM witL səəM laM nɛɛM nayM ooM limM pikL rɯH duuM rɔɔH naM	0.7532467532467533
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theeM saM neeM thaM eeM lɛɛM naM nayM ooM limM pikL riH duuM naawR	0.8028169014084507
+ประเทศสัมพันธมิตร	paM raL theeM saM samR phanM thaM miH tɔɔnM	0.6744186046511628
+จ.ท.	cɔɔM thaM	0.8
+สํานักงานคณะกรรมการพัฒนาการเศรษฐกิจและสังคมแห่งชาติ	samR nakH ŋaanM khaM naH kanM maM kaaM raM phatH naaM kaanM saM reeR sotL kitL lɛH saŋR khomM hɛɛL ŋaM chaatF	0.7889908256880733
+กล่องแยกทางหลวง	kaM lɔɔŋL yɛɛM kaM thaaŋM honR woŋM	0.5714285714285714
+คบคนจรนอนหมอนหมิ่น	khopH khonM cɔɔnM naM aM naM mɔɔnR haM minF	0.7209302325581395
+เอกพงศ์	aM keepL ŋaM	0.33333333333333337
+ก่อนหน้า	kɔɔnL naaF	1.0
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	praL theetF saM wiiR daM neeM nayM ooM limM piL krɯL duuM naaR waM	0.803030303030303
+ประเทศเบลเยียมในโอลิมปิกฤดูหนาว	praL theetF baM leeM yiaM maM nayM ooM limM piL krɯL duuM haM naawM	0.7611940298507462
+กระจัดพลัดพราย	kɔɔM raH catL phlatH phraaM yaM	0.7419354838709677
+กล่าวขอบคุณ	kaM laawF khaM opL khuH naM	0.5925925925925926
+สร้างสรรค์	saM raaF ŋaM sanM	0.5294117647058824
+ประเทศฟินแลนด์ในโอลิมปิกฤดูหนาว	paM raH theeM saM fiH naM lɛɛM naM nayM ooM liH maM piL krɯL duuM haM naawM	0.6533333333333333
+สนธยา	saM notH yaaM	0.5
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raL theeM saM saM wiL taM səəM lɛɛnM nayM ooM liH maM pikL riH duuM rɔɔnH	0.7922077922077921
+พรรคแนวร่วมสังคมนิยม	phɔɔnM rokH nɛɛwM rowF maM saŋR khomM niH yaM maM	0.6326530612244898
+คบคนจรนอนหมอนหมิ่น	khaM baM khonM cɔɔnM nɔɔnM naM haM mɔɔnM naM haM minF	0.5471698113207547
+คบคนจรนอนหมอนหมิ่น	khaM baM khonM cɔɔnM nɔɔnM homR onM miL naM	0.627906976744186
+มหาวิทยาลัยธุรกิจบัณฑิตย์	maM haaR witH yaaM layM thunM kiL caM banM thiH taM	0.6603773584905661
+ผลงานในคริสต์ทศวรรษ	phaM laM ŋaanM naM khayM riH saM thaM saM wanM saM	0.5
+อัลบั้มเพลงในปี	anM laM bamF pheenM laM ŋaM nayM piiM	0.6486486486486487
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theeM saM saM witL saM eeM lɛɛnM nayM ooM limM pikL rɯH duuM haM naaR waM	0.7564102564102564
+วรรณกรรมในคริสต์ทศวรรษ	wanM naM kamM nayM khaM riH sotL suanR rotH	0.7209302325581395
+สงครามในคริสต์ทศวรรษ	saM ŋokH khaM raamM naM khayM khaM riH sotL saM wɔɔnR raM saM	0.47540983606557374
+เพศหญิง	pheetF haM yiH ŋaM	0.5555555555555556
+เข้าพวก	khawF phuakF	1.0
+คบคนจรนอนหมอนหมิ่น	khaM baM khonM cɔɔM raM nɔɔM naM homR maM aM naM haM minL	0.4736842105263158
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF saM wiH taM seeM aM lɛɛM naM nayM ooM limM piL krɯL duuM haM naawR	0.7564102564102564
+ทางหลวงแผ่นดินหมายเลข	thaaŋM lowR ŋaM phɛɛL naM dinM maaR yaM laM kheeM	0.5714285714285714
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL thaM seeM saM wiL taM səəM lɛɛnM nayM ooM limM piL krɯL duuM haM naaM waM	0.7307692307692308
+สิ้นสุดในคริสต์ศตวรรษที่	sinF suL daM nayM naM khaM ritH sotL taM wɔɔnM rotH saM thiiF	0.5737704918032787
+ขวดโหล	khaM waM daM hooR laM	0.33333333333333337
+สิ่งก่อสร้างในคริสต์ศตวรรษที่	siŋL kɔɔL saM raaŋF naM khayM ritH saM taM wɔɔnM rotH thiiF	0.728813559322034
+หลักสูตรภาคค่ำ	haM lakL kaM suuR taM raM phaaM khaM khamF	0.5
+พระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช	phaM raH baatL saM maM detL phaM raH phutH thaM yɔɔtF faaH cuL laaM looM kaM maM haaR raaM chaM	0.7789473684210526
+ประเทศอุรุกวัยในโอลิมปิกฤดูร้อน	praL theeM saM uL rukH wayM nayM ooM limM piL krɯL duuM rɔɔnH	0.8688524590163934
+กลอกกลิ้ง	konM okL kliŋF	0.6428571428571428
+ทางหลวงแผ่นดินหมายเลข	thaaŋM haM luaŋM phɛɛnL dinM haM maayR leeM khaM	0.7083333333333333
+วิทยุสมัครเล่น	witH yuH saM makH raM leenF	0.6428571428571428
+มุขมนตรี	muH khaM maM notH taM riiM	0.6153846153846154
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH thaM seetF wiH taM səəM laM nɛɛM nayM ooM limM piL krɯL duuM haM naaR waM	0.617283950617284
+การบริการภายหลังซื้อ	kaaM raM bɔɔM riH kaanM phaayM yaM laŋR sɯɯH	0.7954545454545454
+สิ้นสุดในคริสต์ศตวรรษที่	siF naM suL daM naM khayM khaM riH sotL tuanM raM saM thiiF	0.5084745762711864
+ใจดีสู้เสือ	cayM caM diiM suuF sɯaR	0.8260869565217391
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	praL theeM sɔɔR otL triaM nayM ooM limM piL krɯL duuM naaR waM	0.7903225806451613
+กระจิบกระจอกข่าว	kraL cipL kɔɔM raL caM okL kaM khaawL	0.6756756756756757
+ปีหน้า	piiM haM naaH	0.6153846153846154
+กระโวยกระวาย	kɔɔM raH wooM yaM kraL waayM	0.7142857142857143
+กลับหลังหัน	kaM lapH haM laŋM hanR	0.5909090909090908
+กิจการขนส่ง	kiL caM kaaM raM khonR soŋL	0.6666666666666667
+อุทยานแห่งชาติเขาสก	utL thaM yaanM hɛɛŋL chaaM tiL khawR saM kaM	0.7954545454545454
+ฮอนด้า	hɔɔnM naM daaF	0.7142857142857143
+ประเทศโปแลนด์ในโอลิมปิกฤดูหนาว	paM raH thaM seeM pooM lɛɛnM nayM ooM limM pikL rɯH duuM naawR	0.8387096774193549
+ประเทศแคนาดาในโอลิมปิกฤดูหนาว	paM raH theeM saM khɛɛM naaM daaM nayM ooM liH maM piL krɯL duuM naawR	0.7857142857142857
+เครื่องตัดหญ้า	khrɯaŋF tatL yaaF	1.0
+เครื่องสุคนธ์	khrɯaŋF suL khaM naM	0.8
+ประเทศบ้านเกิดเมืองนอน	paM raH thaM seeM baanF kəətL mɯaŋM nɔɔM naM	0.7045454545454546
+กองบัญชาการกองทัพบก	kaM aM ŋaM banM chaaM kaanM kaM oŋM thapH bokL	0.7608695652173914
+แบบปลูกสร้าง	baM bɛɛM paM luukL kaM saM raaŋF	0.46875
+ประเทศออสเตรเลียในโอลิมปิกฤดูร้อน	paM raH theeM saM ɔɔM saM taM reeM liaM nayM ooM limM piL kriL duuM rɔɔnH	0.7123287671232876
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL thaM seeM saM wiL taM səəM laM nɛɛM nayM ooM limM pikL rɯH duuM haM naaM waM	0.7160493827160495
+กล้องมองลวดลายพลิกแพลง	kaM lɔɔŋF maM aM ŋonM waM daM laayM phlikH phɛɛnM ŋaM	0.5660377358490566
+อะนิเมะ	aL niH meH	1.0
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raH thaM seeM aM otL taM riaM nayM ooM limM pikL rɯH duuM naaR waM	0.7
+กินแหนงเคลงใจ	kinM hɛɛR naM ŋaM kheeM loŋM cayM	0.5757575757575757
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raL thaM seeM saM wiL taM səəM lɛɛM naM nayM ooM limM pikL riH duuM rɔɔH naM	0.7375
+นักบุญในคริสต์ศตวรรษที่	nakH kaM buL yaM naM khayM ritH sotL wɔɔnM rotH thiiF	0.6037735849056604
+คบคนจรนอนหมอนหมิ่น	khaM baM khaM naM cɔɔnM nɔɔM naM haM mɔɔR naM miL naM	0.5283018867924528
+เจ็บปวด	cepL powM daM	0.46153846153846156
+โมฆะ	mooM khaH	1.0
+เสนอบทความคุณภาพ	seeR naM opL thaM khwaamM khunM phaapF	0.5526315789473684
+คลุมเครือ	khaM luH maM kheeM rɯɯM	0.5217391304347826
+กรรมติดจรวด	kamM titL cɔɔnM wotH	0.65
+รุ่งโรจน์	ruF ŋaM rootF	0.6923076923076923
+ยอดเยี่ยมกระเทียมดอง	yaM otL yiamF kɔɔM raL thiamM maM dɔɔŋM	0.6666666666666667
+ยอดเยี่ยมกระเทียมดอง	yɔɔtF yiaF maM kɔɔM raH thiaM maM daM oŋM	0.6097560975609756
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raH thaM seetF wiH taM səəM lɛɛnM nayM ooM liH maM piL kriL duuM rɔɔH naM	0.6623376623376623
+เพลงฉลองชัย	phaM leeM ŋaM chonR laM oŋM chayM	0.6060606060606061
+กองบัญชาการกองทัพบก	kaM oŋM banM chaaM kaaM rokH oŋM thapH phaM bokL	0.6875
+มุ่งร้ายหมายขวัญ	muF ŋaM raayH maaR yokH khaM wanM	0.6060606060606061
+ประเทศสวัสดิการ	praL theetF saM saM watH saM diL kaanM	0.7631578947368421
+หนังสือแสดงความขอบคุณ	haM naŋM sɯɯR sɛɛtL ŋaM khaM waaM maM khɔɔpL khuH naM	0.5849056603773585
+ผู้เผยแพร่ศาสนา	phuuF pheeR yaM phaM rɛɛF saatL saM naaM	0.75
+เศษส่วนทศนิยม	seetL sowL naM thotH niH yaM maM	0.5625
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theeM sotL wiH taM seeM aM lɛɛM naM nayM ooM limM piL krɯL duuM haM naawM	0.654320987654321
+รอดพ้น	rɔɔtF phonH	1.0
+กรมสอบสวนคดีพิเศษ	kɔɔM romM maM saM opL sowR nokH khaM diiM phiH saM seeR	0.5454545454545454
+รวบหัวรวบหาง	raM wopH huaR ruapF haaR ŋaM	0.6428571428571428
+แปรง	paM rɛɛM ŋaM	0.5
+คลาสสิก	khaM laatF siL kaM	0.6111111111111112
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูร้อน	praL theetF neeM theeM aM laM nɛɛM nayM ooM liH maM pikL rɯH duuM rɔɔH naM	0.7702702702702703
+สมัยหัวเลี้ยวหัวต่อ	saM mayR yaM huaR liaH waM huaR tɔɔL	0.7777777777777778
+ตกเป็นเบี้ยล่าง	tokL penM biaF laaŋF	1.0
+เดช	deetL	1.0
+สวยสดงดงาม	saM woyM yaM saM daM ŋotL ŋaaM maM	0.4117647058823529
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theeM sotL wiH taM saM eeM lɛɛM naM nayM ooM liH maM pikL riH duuM naawR	0.7
+สมัยใหม่	saM mayR haM mayL	0.7647058823529411
+งานประกาศผลรางวัลออสการ์	ŋaaM naM praL kaaM saM phaM laM raaM ŋaM wanM ɔɔM saM kaaM	0.6206896551724138
+วงแหวน	waM ŋaM hɛɛwR naM	0.4117647058823529
+สมเด็จพระเจ้าบรมวงศ์เธอ	somR detL phraH cawF bɔɔM romM waM ŋaM theeM aM	0.7021276595744681
+สรรพสามิต	saM ropL saaR mitH	0.6842105263157895
+สงครามในคริสต์ทศวรรษ	soŋR khaM raaM maM nayM naM khriH saM thotH wanM saM	0.6153846153846154
+ประเทศออสเตรียในโอลิมปิกฤดูร้อน	praL thaM seeM ɔɔM saM teeM riiyM nayM ooM liH maM pikL riH duuM rɔɔH naM	0.6575342465753424
+กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์	kɔɔM raL sowM ŋaM kaanM phatH naaM saŋR khomM lɛH khwaamM manF khaM ŋokH aM ŋaM maM nuH saM	0.7252747252747253
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH thaM seeM saM witH seeM aM laM nɛɛM nayM ooM limM pikL riH duuM haM naawM	0.6790123456790124
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	praL theeM saM saM wiiR deeM naM nayM ooM limM pikL rɯH duuM haM naaM waM	0.7671232876712328
+ก้าก	kaaF kaM	0.5
+บุคคลที่เสียชีวิตในคริสต์ศตวรรษที่	bukL khonM thiiF siaR chiiM wiH taM nayM khaM ritH saM taM wɔɔnM rotH thiiF	0.8133333333333334
+ภิรมย์	phiH raM maM	0.6666666666666667
+กระทรวงเศรษฐการ	kraL sowM ŋaM seetL thaM kaaM raM	0.7272727272727273
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	klumL phanM thaM miH taM raM paM raL chaatF naM phɯaF praL chaaM thiH paM tayM yaM	0.7317073170731707
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raH thaM seeM saM wiL taM seeM aM laM nɛɛM nayM ooM limM piL krɯL duuM rɔɔH naM	0.6265060240963856
+ประเทศเบลเยียมในโอลิมปิกฤดูหนาว	praL thaM seeM baM leeM yiaM maM nayM ooM liH maM pikL riH duuM naaR waM	0.6944444444444444
+กีฬายิมนาสติกในโอลิมปิกฤดูร้อน	kiiM laaM yiH maM naaM saM tikL nayM ooM liH maM piL kriL duuM rɔɔH naM	0.7323943661971831
+ประเทศฮังการีในโอลิมปิกฤดูหนาว	praL theetF haŋM kaaM riiM nayM ooM limM piL kriL duuM haM naaM waM	0.8208955223880597
+ทางหลวงแผ่นดินหมายเลข	thaaM ŋaM haM luaŋM phɛɛL naM dinM naM haM maaM yaM laM kheeM	0.4918032786885246
+เพลี่ยงพล้ำ	pheeM liiF yaM ŋopH phaM lamH	0.4482758620689655
+ประเทศฝรั่งเศสในโอลิมปิกฤดูหนาว	praL thaM seeM faM raŋF seeR saM nayM ooM limM piL kriL duuM naaR waM	0.7246376811594203
+ลอก	laM okL	0.2857142857142857
+ทรยศ	soyM yaM saM	0.3571428571428571
+พระราชพิธีมหามงคลเฉลิมพระชนมพรรษา	phaM raH raatF phiH thiimM haamR ŋokH laM cheeR liH mopH raH chonM maM phanM saaR	0.6588235294117647
+สํานักงานคณะกรรมการพัฒนาการเศรษฐกิจและสังคมแห่งชาติ	samR nakH ŋaanM khaM naH kɔɔnM romM kaanM phatH naaM kaanM seeR raM sotL kitL lɛH saŋR khomM hɛɛL ŋaM chaaM tiL	0.7477477477477478
+กระดานหมากรุก	kɔɔM raH daanM maakL ruH kaM	0.6785714285714286
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raL theeM sotL wiH taM səəM laM nɛɛM nayM ooM limM pikL rɯH duuM rɔɔnH	0.7702702702702703
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM saM witL seeM aM laM nɛɛM nayM ooM liH maM piL kriL duuM naawR	0.6625
+ระหว่างสงคราม	raH haM waaL ŋaM saM ŋaM khraamM	0.59375
+คบคนจรนอนหมอนหมิ่น	khaM baM khaM notH cɔɔM raM naM aM naM homR onM naM haM miL naM	0.3492063492063492
+คบคนจรนอนหมอนหมิ่น	khopH khonM cɔɔM raM nɔɔnM haM mɔɔR naM miL naM	0.6595744680851063
+ประเทศนิวซีแลนด์ในโอลิมปิกฤดูร้อน	paM raL theetF niwM siiM lɛɛnM nayM ooM limM pikL riH duuM rɔɔnH	0.9375
+คบคนจรนอนหมอนหมิ่น	khaM bokL khaM naM cɔɔM raM naM onM naM haM maM onM minL	0.4642857142857143
+ย้ายสำมะโนครัวไปอยู่ในคุก	yaayH samR maH nookF ruaM payM aM yuuF nayM naM khuH kaM	0.7142857142857143
+ทางหลวงแผ่นดินหมายเลข	thaaŋM luaŋR phɛɛnL dinM haM maaM yaM laM kheeM	0.6808510638297872
+กรรมกร	kanM maM kɔɔnM	0.9285714285714286
+ระหว่างสงคราม	raH haM waaŋF saM ŋokH raaM maM	0.5161290322580645
+โรงเรียนศิลปการช่าง	raM ŋooM riaM naM sinR paM kaanM chaaF ŋaM	0.7142857142857143
+ประเทศโปแลนด์ในโอลิมปิกฤดูหนาว	praL theeM saM pooM laM nɛɛM nayM ooM liH maM pikL riH duuM haM naawM	0.7246376811594203
+คนขนของ	khonM naM khaM nokH oŋM	0.4347826086956522
+มังกร	maŋM kɔɔM raM	0.6923076923076923
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	praL theeM saM ɔɔM saM triaM nayM ooM limM piL kriL duuM haM naaM waM	0.6811594202898551
+เพลงประจําโรงเรียน	pheeM loŋM paM raL camM rooŋM riaM naM	0.7105263157894737
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM saM witH saM eeM lɛɛnM nayM ooM liH maM piL krɯL duuM naaR waM	0.7
+ประเทศคู่สงคราม	praL theetF saM khuutF ŋaM khraaM maM	0.6756756756756757
+ตำรวจนครบาล	tamM ruatF naM khɔɔnM baanM	1.0
+กล้องมองลวดลายพลิกแพลง	kaM lɔɔH ŋomM aM ŋaM laM wotH laaM yaM phliH kaM phɛɛnM ŋaM	0.4915254237288136
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	kaM luF maM phanM thaM miH taM raM paM raL chaaM chonM phɯaF paM raL chaaM thiH paM tayM yaM	0.7173913043478262
+สรรพสามิต	sapM phaM saaR miH taM	0.7727272727272727
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF neeM theeM aM lɛɛnM nayM ooM limM pikL rɯH duuM haM naawR	0.8695652173913043
+กระทรวงเกษตรและสหกรณ์	kɔɔM raL sowM ŋaM keetL taM raM lɛH saM haM kɔɔM raM	0.5961538461538461
+หมดรูป	haM maM daM ruupL	0.3529411764705882
+พระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว	phraH baaM thotH maM detL phaM raH cɔɔmM kaM lawF cawF yuuL huaR	0.765625
+ประเทศออสเตรเลียในโอลิมปิกฤดูร้อน	paM raH theeM sɔɔR otL teenM liaM nayM ooM liH maM pikL riH duuM rɔɔH naM	0.726027397260274
+จุดหมายปลายทาง	cutL haM maaR yaM plaayM thaaŋM	0.7419354838709677
+ราชการบริหารส่วนกลาง	raatF kaanM bɔɔM riH haaR raM sowL nokH laaM ŋaM	0.5625
+องค์การที่ก่อตั้งในคริสต์ทศวรรษ	aM ŋaM kaanM thiiF kɔɔL taŋF nayM khaM riH saM thaM saM wanM saM	0.671875
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raH theetF saM wiH taM səəM laM nɛɛM nayM ooM limM piL krɯL duuM rɔɔH naM	0.7402597402597403
+สามเหลี่ยมมุมฉาก	saaR maM liamL muH maM chaaR kaM	0.65625
+กรรมสนองกรรม	kanM motH nɔɔŋM kraM romM	0.56
+แต่ไกล	tɛɛL kaM layM	0.7692307692307692
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	praL theeM sotL witH seeM aM lɛɛM naM nayM ooM liH maM pikL rɯH duuM rɔɔnH	0.7837837837837838
+ตกกระไดพลอยโจน	tokL kaM kɔɔM raL daM phayM phaM lɔɔM yaM coonM	0.5957446808510638
+ช่างทําฟัน	chaaŋF thamM fanM	1.0
+ท้องสนามหลวง	thɔɔŋH saM naamM maM honR waM ŋaM	0.5454545454545454
+ลบล้างความผิด	lopH laaŋH khaM waamM maM phitL	0.7741935483870968
+แขกชวา	khaM kɛɛR chaM waaM	0.6842105263157895
+กระทรวงทบวงกรม	kɔɔM raL thɔɔM ruaŋM thaM buaŋM kɔɔnM maM	0.5853658536585367
+คบคนจรนอนหมอนหมิ่น	khaM baM khonM cɔɔM ronM naM aM naM haM mɔɔnM haM minF	0.5
+พระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช	phaM raH baatL somR detL phraH phuH thotH yaM otL faaH cuL laaM laM kooM maM haaR raaM chaM	0.7362637362637363
+ขยักขย้อน	khaM yakH khaM yɔɔF naM	0.782608695652174
+ประเทศแคนาดาในโอลิมปิกฤดูหนาว	paM raH thaM seeM khɛɛM naaM daaM nayM ooM limM piL krɯL duuM haM naawR	0.7605633802816901
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM neeM thəəM lɛɛM naM nayM ooM limM piL kriL duuM haM naawR	0.7333333333333334
+กระทรวงเกษตรและสหกรณ์	kraL thɔɔM raM woŋM keetL saM taM raM lɛH saM haM kɔɔnM	0.5818181818181818
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seetF wiH taM səəM laM nɛɛM nayM ooM limM piL kriL duuM haM naaR waM	0.617283950617284
+ไฟเบอร์กล๊าสส์	fayM beeM aM kaM laaH saM	0.48
+วันสิ่งแวดล้อมไทย	wanM naM siŋL waM dɛɛM lɔɔmH thayM	0.7058823529411764
+คณะกรรมการการเลือกตั้ง	khaM naH kɔɔnM romM maM kaaM raM kaaM raM lɯakF taŋF	0.7115384615384616
+ก๋วยเตี๋ยวราดหน้ายอดผัก	kuayR tiawR raaM daM haM naaH yɔɔtF phakL	0.7560975609756098
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	paM raL theetF saM wiiR deeM naM nayM ooM liH maM piL kriL duuM haM naaR waM	0.7105263157894737
+กล้องมองลวดลายพลิกแพลง	kaM lɔɔŋF maM oŋM laM wotH laaM yopH likH phɛɛnM ŋaM	0.5576923076923077
+มาลาตรง	maaM laatF taM roŋM	0.736842105263158
+ถุงกระดาษ	thuL ŋaM kɔɔM raL daaM saM	0.5
+ความปวดร้าว	khaM waaM mopH wotH raaH waM	0.4642857142857143
+สั่นคลอน	sanL khonM laM onM	0.5555555555555556
+ขนลุกเกรียว	khlaM nuL kaM keeM riiyM waM	0.3928571428571429
+ส้มฉุน	somF chuL naM	0.6923076923076923
+คบคนจรนอนหมอนหมิ่น	khopH khonM naM cɔɔnM nɔɔnM naM homR onM naM miL naM	0.5769230769230769
+ขรัวยาย	khaM ruaM yaayM	0.7333333333333334
+คบคนจรนอนหมอนหมิ่น	khaM baM khaM notH raM naM aM naM haM mɔɔM naM miL naM	0.38888888888888884
+คนผอมกะหร่อง	khonM naM phaM omM maM kaL haM rɔɔF ŋaM	0.46153846153846156
+ประเทศเบลเยียมในโอลิมปิกฤดูหนาว	paM raH thaM seeM beenM yiamM nayM ooM liH maM piL kriL duuM haM naawR	0.7
+ฆ่าควายเสียดายเกลือ	khaaF khwaaM yaM siaR daayM kaM lɯaM	0.8333333333333334
+หลน	honR laM naM	0.25
+ประเทศฝรั่งเศสในโอลิมปิกฤดูหนาว	praL theetF faM raŋL saM seeR nayM ooM liH maM piL krɯL duuM haM naawM	0.7428571428571429
+เรือประจัญบาน	rɯaM paM raL canM yaM baaM naM	0.6666666666666667
+เขตปลดปล่อย	kheetL taM paM laM dopL paM lɔɔyF	0.5151515151515151
+คบคนจรหมอนหมิ่น	khaM baM khonM cɔɔnM haM maM onM naM haM miF naM	0.4375
+กรรไกร	kɔɔM raM raM kayM kɔɔM raM	0.2692307692307693
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	klumL phanM thaM mitH ropH raH chaaM chonM phɯaF paM raL chaaM thipH tayM yaM	0.8441558441558441
+คบคนจรนอนหมอนหมิ่น	khopH khaM naM cɔɔnM naM aM naM haM maM aM naM haM minF	0.49090909090909096
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	paM raH thaM seeM saM wiiR deeM naM nayM ooM liH maM pikL rɯH duuM haM naawR	0.7236842105263157
+ความปลอดภัยของประชาชน	khwaaM maM plɔɔtL phayM khaM aM ŋopL raH chaatF naM	0.6274509803921569
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH thaM seeM saM witH saM eeM lɛɛnM nayM ooM liH maM piL krɯL duuM naaR waM	0.6875
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kɔɔM raL thɔɔM ruaŋM theekF nooM looM yiiM saanR saM naM theetF lɛH kaanM sɯɯL saanR	0.8095238095238095
+ประเทศนอร์เวย์ในโอลิมปิกฤดูหนาว	paM raL theeM saM naM aM weeM nayM ooM limM pikL riH duuM haM naaR waM	0.7
+คบคนจรหมอนหมิ่น	khaM baM khonM cɔɔM raM mɔɔnR haM minF	0.6052631578947368
+บอก	bɔɔkL	1.0
+สํานักงานคณะกรรมการพัฒนาการเศรษฐกิจและสังคมแห่งชาติ	samR nakH ŋaanM khaM naH kɔɔM rɔɔnM maM kaanM phatH naaM kaanM seeR raM sotL kitL lɛH saŋR khomM hɛɛL ŋaM chaaM tiL	0.7391304347826086
+บุคคลในคริสต์ศตวรรษที่	bukL khonM naM khayM ritH saM taM wanM saM thiiF	0.7708333333333334
+แต่งทำนองเพลง	tɛɛL ŋaM thamM naM aM ŋaM phaM leeM ŋaM	0.5641025641025641
+กลุ่มดนตรีที่ก่อตั้งในปี	kaM luF motH notH riiM thiiF kɔɔL taŋF nayM naM piiM	0.6923076923076923
+สิ้นปราณ	sinF paM raaM naM	0.6470588235294117
+หมายเรียกตัว	haM maaM yaM riakF kaM tuaM	0.5555555555555556
+การคลื่นไส้	kaaM raM khlɯɯnF sayF	0.8095238095238095
+นักบุญในคริสต์ศตวรรษที่	nakH buL yaM naM khayM khaM riH saM sotL taM watM thiiF	0.6181818181818182
+เขตปลอดทหาร	kheetL taM plɔɔM dotL thaM haaR raM	0.6285714285714286
+กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์	kɔɔM raH thɔɔM rowM ŋaM kaaM raM phatH naaM saŋR khomM lɛH khwaamM manF khoŋM khaM aM ŋaM maM nutH	0.7040816326530612
+ชื่อและนามสกุล	chɯɯF lɛH naaM motH saM kunM	0.8214285714285714
+กระบะทราย	kɔɔM raL baL saaM yaM	0.6666666666666667
+ประเทศด้อยพัฒนา	paM raL theeM saM dɔɔF yaM phatH thaM naaM	0.7142857142857143
+กรมสอบสวนคดีพิเศษ	kromM sɔɔR botL wonM khaM diiM phiH saM seeR	0.6590909090909092
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raH thaM seeM ɔɔtL taM riaM nayM ooM limM piL kriL duuM haM naawM	0.6811594202898551
+คบคนจรนอนหมอนหมิ่น	khaM bokL khaM naM cɔɔnM naM aM naM mɔɔR naM miL naM	0.5192307692307692
+สิ่งก่อสร้างในคริสต์ทศวรรษ	siŋL kɔɔtL raaŋH nayM khaM ritH thaM saM wɔɔnR rotH	0.6862745098039216
+การประกวดเพลงยูโรวิชันปี	kaaM raM paM raL kowM daM phaM leeŋM yuuM rooM wiH chanM piiM	0.7213114754098361
+ประเทศอาร์เจนตินาในโอลิมปิกฤดูร้อน	paM raL theeM saM aaM ceenM tiL naaM nayM ooM limM piL krɯL duuM rɔɔnH	0.8428571428571429
+อ่อนไหว	ɔɔL naM wayR	0.6666666666666667
+เรือเมล์	rɯaM meeM	1.0
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theeM sotL wiH taM səəM lɛɛM naM nayM ooM limM pikL riH duuM haM naawR	0.7435897435897436
+สิ่งก่อสร้างในคริสต์ศตวรรษที่	siŋL kɔɔL saaF ŋaM naM khayM riH saM sotL wɔɔnM rotH thiiF	0.6551724137931034
+กีฬากรีฑาในโอลิมปิกฤดูร้อน	kiiM laaM kriiM thaaM nayM ooM limM piL kɔɔM rɯH duuM rɔɔnH	0.9152542372881356
+นครสวรรค์	naM khɔɔnM saM wanM	0.9473684210526316
+ประเทศมาเลเซียในโอลิมปิกฤดูร้อน	praL theeM saM maaR leeM siaM nayM ooM limM piL kriL duuM rɔɔnH	0.8412698412698413
+สามเหลี่ยมหน้าจั่ว	saaR maM heeR liiF yaM maM haM naaF cuaL	0.5
+กระยิ้มกระย่อง	kraL yiH maM kɔɔM raL yɔɔŋF	0.7037037037037037
+ทางหลวงแผ่นดินหมายเลข	thaaM ŋaM haM luaŋM phɛɛL naM diL naM haM maayR leekF	0.6415094339622642
+บุคคลที่เกิดในคริสต์ศตวรรษที่	buL khaM khonM thiiF kəətL naM khayM riH saM saM taM watM thiiF	0.746031746031746
+กาล้กน้ํา	kaaM lokH namH	1.0
+ปลาบปลื้ม	plaapL paM lɯɯmH	0.75
+ภาษาราชการ	phaaM saaR raaM chaM kaaM	0.72
+ประวัติศาสตร์	paM raH watH saatL taM	0.6363636363636364
+ประเทศฮังการีในโอลิมปิกฤดูหนาว	praL theetF haŋM kaaM riiM nayM ooM limM piL kriL duuM naawR	0.9333333333333333
+กระหยิ่มใจ	kɔɔM raH haM yimL cayM	0.5909090909090908
+กรดฟอสฟอริก	krotL faM otL saM faM aM rikH	0.5517241379310345
+ประเทศฮังการีในโอลิมปิกฤดูหนาว	paM raH theeM saM haŋM kaaM riiM nayM ooM liH maM piL kriL duuM naawR	0.7681159420289855
+กฎหมายการปกครอง	kotL maayR yaM kaanM paM kokL khaM rɔɔŋM	0.725
+กระดาษเงินกระดาษทอง	kɔɔM raH daatL ŋəənM naM kɔɔM raL daatL thaM aM ŋaM	0.607843137254902
+ประเทศกสิกรรม	paM raH thaM seekF siL kɔɔnM raM maM	0.41666666666666663
+คบคนจรหมอนหมิ่น	khaM baM khonM cɔɔM raM haM mɔɔnM naM haM minL	0.5
+กินแหนงเคลงใจ	kiL naM haM nɛɛŋR kheenM ŋaM cayM	0.6363636363636364
+รัสสระ	ratH saM saL	0.9166666666666666
+ขาดตกบกพร่อง	khaaR daM tokL baM kopL rɔɔF ŋaM	0.5
+กระหนก	kɔɔM raL haM naM kaM	0.35
+ฤดูทำนา	rɯH duuM thamM naaM	1.0
+คณะสัตวแพทยศาสตร์	khaM naH satL waM phɛɛM thaM yaM saaR saM taM	0.6888888888888889
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH theetF saM witH saM eeM lɛɛM naM nayM ooM liH maM piL krɯL duuM haM naaM waM	0.6904761904761905
+กระทรวงการต่างประเทศ	kɔɔM raL thɔɔM rowM ŋaM kaaM raM taaL ŋopH raH theetF	0.5094339622641509
+มหาวิทยาลัยสงขลานครินทร์	maM haaR witH yaaM layM saM ŋokH laanM khaM rinM thaM	0.6481481481481481
+หางนกยูง	haaŋR nokH yuuM ŋaM	0.8421052631578947
+ความสุข	khaM waaM maM suL khaM	0.5
+ถนิมสร้อย	thaM nimM maM saM rɔɔF yaM	0.5
+สวดมนตร์สวดพร	sowR daM maM naM taM sowR daM phɔɔnM	0.38888888888888884
+กองหนุน	kaM aM ŋaM haM nunM	0.368421052631579
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF neeM thaM eeM lɛɛnM nayM ooM limM pikL riH duuM haM naawM	0.8405797101449275
+คบคนจรนอนหมอนหมิ่น	khaM bokL notH cɔɔM ronM onM haM maM onM haM miL naM	0.3846153846153846
+แมลงสาบ	maM lɛɛM ŋaM saaR baM	0.6190476190476191
+กรรมสิทธิ์ผู้แต่งหนังสือ	kamM siL thaM phuuF tɛɛL ŋaM naŋR sɯɯR	0.7105263157894737
+เพลงฉลองชัย	pheenM ŋaM chonR oŋM chayM	0.5769230769230769
+ซิกซี้	sikH siiH	1.0
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF neeM thəəM lɛɛnM nayM ooM limM pikL riH duuM naawR	0.9838709677419355
+กระฟูมกระฟาย	kɔɔM raH fuumM kraL faaM yaM	0.7142857142857143
+งวดหลังของปี	ŋaM wotH haM laŋM khɔɔŋR piiM	0.6206896551724138
+ความมุ่งหมาย	khwaaM maM muF ŋaM haM maayR	0.6071428571428572
+บทความคัดสรร	botL thaM khwaaM maM khatH saM rɔɔnR	0.6111111111111112
+ประเทศฝรั่งเศสในโอลิมปิกฤดูร้อน	paM raL theetF faM raŋF seeR saM nayM ooM limM piL krɯL duuM rɔɔnH	0.8333333333333334
+เถลิงราชสมบัติ	theeR liŋM raatF somR maM batL	0.6666666666666667
+เสนอบทความคัดสรร	seeR naM aM botL thaM khwaamM khatH saM raM raM	0.6382978723404256
+ลูกศร	luukF kaM sɔɔnR	0.7333333333333334
+หมด	homR daM	0.125
+คบคนจรนอนหมอนหมิ่น	khaM bokL notH cɔɔM ronM onM naM homR onM minL	0.4782608695652174
+ประเทศคู่สงคราม	praL theeM saM khuuF saM ŋokL raaM maM	0.6052631578947368
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theeM saM neeM theeM aM lɛɛM naM nayM ooM liH maM piL krɯL duuM haM naaM waM	0.6428571428571428
+กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์	kɔɔM raH thɔɔM ruaŋM kaanM phatH naaM saŋR khomM lɛH khwaamM manF khoŋM khɔɔŋR maM nuH saM	0.8111111111111111
+สหประชาชาติ	saM haM praL chaaM chaatF	1.0
+ประเทศกรีซในโอลิมปิกฤดูร้อน	praL theetF kɔɔM riitL nayM ooM limM pikL riH duuM rɔɔH naM	0.847457627118644
+เม.ย.	meeM yɔɔM	1.0
+คอนกรีตเสริมเหล็ก	khaM aM nokL riiM taM saM rəəmR lekL	0.5555555555555556
+สิ้นสุดในคริสต์ทศวรรษ	sinF sutL nayM khaM riH saM thaM saM wɔɔnR raM saM	0.56
+ทะเบียนสมรส	thaH bianM naM saM mɔɔM raM saM	0.4838709677419355
+สิ่งก่อสร้างในคริสต์ศตวรรษที่	siL ŋaM kɔɔL saaF ŋaM nayM khaM ritH saM taM wɔɔnM rotH thiiF	0.7049180327868853
+เอชไอวี	aM cheeM ayM wiiM	0.5882352941176471
+ถนนพุทธมณฑล	thonR naM phuH thaM thaM monM naM thonM	0.6153846153846154
+ประเทศเบลเยียมในโอลิมปิกฤดูหนาว	paM raL thaM seeM beeM laM yiaM maM nayM ooM limM piL krɯL duuM haM naawR	0.6849315068493151
+หุ่นจีน	hunL ciinM	1.0
+การสิ้นสติ	kaanM siF notH tiL	0.7222222222222222
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH thaM seeM neeM thaM eeM lɛɛM naM nayM ooM limM piL krɯL duuM haM naaM waM	0.6419753086419753
+เวลาปิดงบดุลย์	waM lawM piL daM ŋopH dunM	0.6923076923076923
+สิ้นสุดในคริสต์ศตวรรษที่	sinF suL daM nayM khaM ritH saM taM watM thiiF	0.8043478260869565
+ทางหลวงแผ่นดินหมายเลข	thaaM ŋaM luaŋR phɛɛL naM dinM haM maayR leekF	0.7608695652173914
+กระจกเงา	kɔɔM raH cokL ŋawM	0.7222222222222222
+กระดานสนทนา	kɔɔM raL daanM saM notH thaM naaM	0.696969696969697
+ประเทศเบลเยียมในโอลิมปิกฤดูหนาว	praL theeM saM beeM laM yiamM nayM ooM limM pikL rɯH duuM haM naaM waM	0.7571428571428571
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	paM raH theetF saM wiiR deeM naM nayM ooM liH maM pikL rɯH duuM naaR waM	0.7916666666666666
+นึกสงสาร	nɯkH kaM saM ŋaM saaR raM	0.43999999999999995
+บรรทุกเต็มอัตรา	bɔɔM rɔɔnM thuH kaM temM atL taM raaM	0.5945945945945945
+กฎหมายการปกครอง	kotL maaR yaM kaaM raM pokL khrɔɔŋM	0.7714285714285715
+กายกรรม	kaayM yaM kraM romM	0.5263157894736843
+ประเทศญี่ปุ่นในโอลิมปิกฤดูหนาว	paM raH theetF yiiF punL nayM ooM limM piL krɯL duuM haM naawM	0.8064516129032258
+กระทรวงเกษตรและสหกรณ์	kraL thɔɔnM waM ŋaM kaM seeM tɔɔnM lɛH saM haM kɔɔnM	0.6730769230769231
+แต่งทำนองเพลง	tɛɛL ŋaM thamM naM oŋM pheenM ŋaM	0.6060606060606061
+พันธนาการ	phanM thaM naaM kaaM	0.9523809523809523
+คงเหลือ	khoŋM lɯaR	1.0
+แชมเปี้ยนชิพ	chaM mɛɛM pianF chiH phaM	0.6
+พระราชพิธีมหามงคลเฉลิมพระชนมพรรษา	phaM raH raatF phiH thiimM haamR ŋokH laM cheeR liH maM phraH chonM maM phanM saaR	0.6823529411764706
+ประเทศเบลเยียมในโอลิมปิกฤดูร้อน	praL theetF beeM laM yiaM maM nayM ooM limM pikL rɯH duuM rɔɔH naM	0.8333333333333334
+พระราชพิธีมหามงคลเฉลิมพระชนมพรรษา	phraH raaM chaM phiH thiiM maM haaR moŋM khonM chaM ləəmR phaM raH chonM maM phɔɔnM raM saaR	0.8804347826086957
+ประเทศฝรั่งเศสในโอลิมปิกฤดูหนาว	paM raL theetF faM raŋL saM seeR nayM ooM liH maM piL krɯL duuM naaR waM	0.7222222222222222
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH theeM saM saM witL seeM aM lɛɛM naM nayM ooM limM pikL rɯH duuM naaR waM	0.725
+ฟุตซอลชิงแชมป์โลก	futH taM sɔɔM laM chiŋM chɛɛM maM laM kooM	0.5952380952380952
+ประเทศโปแลนด์ในโอลิมปิกฤดูหนาว	praL theetF pooM lɛɛM naM nayM ooM liH maM piL krɯL duuM naaR waM	0.8
+โกรธหน้าแดงก่ำ	krootL naaF dɛɛŋM kamL	1.0
+ประเทศฝรั่งเศสในโอลิมปิกฤดูหนาว	praL thaM seeM faM raŋF seetL nayM ooM limM piL kriL duuM haM naawM	0.7761194029850746
+ลอย	laM aM yaM	0.30000000000000004
+พิจิตร	phiH ciL tɔɔnM	0.5714285714285714
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	praL theeM saM ɔɔtL teeM riiM yaM nayM ooM limM piL krɯL duuM haM naaM waM	0.6756756756756757
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raL theetF ɔɔM saM teeM riiyM nayM ooM limM piL kriL duuM haM naawM	0.676056338028169
+ขว้างค้อน	khaM waaH ŋaM khɔɔnH	0.65
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF saM wiL taM saM eeM lɛɛnM nayM ooM liH maM pikL rɯH duuM naawR	0.8378378378378378
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theetF saM wiL taM seeM aM laM nɛɛM nayM ooM limM pikL rɯH duuM haM naaM waM	0.7023809523809523
+กองปราบปราม	kaM aM ŋaM paM raaM baM praamM	0.5
+วรรณกรรมในคริสต์ทศวรรษ	wanM kɔɔnM romM nayM khaM ritH thotH wanM saM	0.6888888888888889
+สงครามครูเสดครั้งที่	saM ŋokH raamM maM khaM ruuM saM deeR khraŋH thiiF	0.6
+เสนอบทความคุณภาพ	saM nəəR botL thaM khaM waamM khunM phaaM phaM	0.6956521739130435
+ฟุตบอลถ้วยพระราชทาน	futH bɔɔM laM thuayF phraH raatF thaanM	0.8974358974358975
+ประเทศสังคมนิยม	paM raL thaM seeM saŋR khaM maM niyM yaM maM	0.5681818181818181
+ถูกขโมย	thuukL kaM khaM maM yooM	0.625
+จิตรกรรมในคริสต์ทศวรรษ	ciL tɔɔnM kamM nayM khriH saM thotH wanM saM	0.6818181818181819
+การเลือกตั้งประธานาธิบดีฝรั่งเศส	kaaM raM lɯaM kaM taŋF praL thaaM naaM thipH diiM faM raŋF seetL	0.875
+พระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช	phraH baaM thaM somR detL phaM raH phuH thotH yɔɔM daM faaH cuL laaM lookF maM haaR raaM chaM	0.7526881720430108
+พอสถานประมาณ	phɔɔM saM thaaR nopH raH maaM naM	0.7272727272727273
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theetF neeM thəəM lɛɛM naM nayM ooM limM pikL rɯH duuM naawR	0.9117647058823529
+จังหวัดนครศรีธรรมราช	caŋM haM watL naM khaM raM siiR thɔɔnM raM mɔɔM raaM chaM	0.5614035087719298
+องค์กรปกครองส่วนท้องถิ่น	aM ŋokL ropH kokL raM aM ŋaM sowL naM thɔɔH ŋaM thinL	0.4528301886792453
+ขยุ้มตีนหมา	khaM yuH maM tiinM haM maaR	0.7037037037037037
+ประเทศนิวซีแลนด์ในโอลิมปิกฤดูร้อน	praL thaM seeM niH waM siiM lɛɛM naM nayM ooM limM pikL rɯH duuM rɔɔH naM	0.7808219178082192
+คบคนจรนอนหมอนหมิ่น	khaM bokL naM cɔɔnM nɔɔM naM haM mɔɔnR naM haM minF	0.5294117647058824
+กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์	kɔɔM raL thɔɔM rowM ŋaM kaaM raM phatH naaM saŋR khomM lɛH khwaaM maM manF khoŋM khaM aM ŋaM maM nutH	0.693069306930693
+ความคิดความอ่าน	khaM waaM maM khiH dokL waamM aaL naM	0.5945945945945945
+คบคนจรนอนหมอนหมิ่น	khaM bokL khaM naM cɔɔM raM naM onM homR maM onM haM minL	0.4385964912280702
+ความมี	khaM waamM miiM	0.8
+ประเทศสวีเดนในโอลิมปิกฤดูร้อน	paM raH theeM sotL wiiM deeM naM nayM ooM liH maM pikL rɯH duuM rɔɔH naM	0.7361111111111112
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	praL theeM sotL wiiM deeM naM nayM ooM limM pikL riH duuM haM naaM waM	0.7571428571428571
+ไปรสนีย์	payM rotH saM niiM	0.6666666666666667
+มักคุ้น	makH kaM khuH naM	0.5294117647058824
+พรรคกรรมกร	phakM khaM kɔɔM rɔɔnM mokH kaM	0.5
+ปากตะไกร	paaM kaM taL kayM raM	0.5714285714285714
+จํานวน	camM nuanM	1.0
+โรงเรียนศิลปากร	rooŋM rianM sinR paakL kaM	0.8148148148148149
+ประเทศเบลเยียมในโอลิมปิกฤดูหนาว	praL theeM saM baM leeM yiaM maM nayM ooM liH maM pikL riH duuM haM naawM	0.6986301369863014
+กลั่นกรอง	kaM lanL krɔɔM ŋaM	0.6666666666666667
+โรงเรียนกวดวิชา	rooM ŋaM riaM naM kuatL wiH chaaM	0.8181818181818181
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kraL thɔɔnM woŋM theekF nooM looM yiiM saaR raM saM naM theeM saM lɛH kaaM raM sɯɯL saanR	0.6853932584269663
+เรียงเบอร์	riaŋM bəəM	1.0
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	kaM lumL phanM thaM miH taM ropH raH chaaM chonM phɯaF praL chaaM thipH tayM yaM	0.8
+สันติสุข	sanR tiL sukL	1.0
+คบคนจรนอนหมอนหมิ่น	khopH khaM notH cɔɔM raM naM aM naM homR aM naM haM miF naM	0.423728813559322
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	kaM lumL phanM thaM miH tɔɔnM paM raH chaatF naM phɯaF paM raL chaaM thipH taM yayM	0.7108433734939759
+คบคนจรนอนหมอนหมิ่น	khaM bokL naM cɔɔM ronM onM homR maM aM naM haM miF naM	0.36363636363636365
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raH theeM saM neeM thaM eeM lɛɛM naM nayM ooM liH maM piL kriL duuM rɔɔnH	0.6883116883116883
+คบคนจรนอนหมอนหมิ่น	khopH khonM naM cɔɔM raM nɔɔM naM homR onM haM miL naM	0.537037037037037
+กระเย้อกระแหย่ง	kɔɔM raH yəəH kɔɔM raL hɛɛR yoŋF	0.53125
+โรงเรียนมัธยมศึกษาตอนปลาย	rooM ŋaM rianM matH yomM sɯkL saatL aM naM plaaM yaM	0.7692307692307692
+เครื่องคิดเลข	khaM rɯaŋF khitH leekF	0.8636363636363636
+ว่านอนสอนง่าย	waanF aM notL onM naM ŋaayF	0.5185185185185186
+หนังสือแสดงความขอบคุณ	naŋR sɯɯR saM dɛɛŋR khwaamM maM khɔɔpL khuH naM	0.851063829787234
+คบคนจรนอนหมอนหมิ่น	khopH khaM notH cɔɔM raM nɔɔnM haM mɔɔnM haM minF	0.5918367346938775
+ประกาศสงคราม	praL kaaM saM saM ŋaM khraamM	0.6551724137931034
+ทางหลวงแผ่นดินหมายเลข	thaaM ŋaM haM laM woŋM phɛɛL naM dinM naM haM maayM leeM khaM	0.4918032786885246
+รายการโทรทัศน์ที่ยุติการออกอากาศในปี	raayM kaaM raM sooM thatH thiiF yuH tiL kaanM ɔɔM kaM aaM kaaM saM nayM piiM	0.7763157894736842
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theeM saM saM wiL taM saM eeM lɛɛM naM nayM ooM limM pikL riH duuM haM naaR waM	0.6666666666666667
+กะไหล่	kaL layL	1.0
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF saM witH səəM lɛɛnM nayM ooM limM pikL rɯH duuM haM naawM	0.927536231884058
+รถยนต์	raM thoyR yaM naM	0.3529411764705882
+สถานที่ประกอบพิธีสมรส	saM thaanR thiipF raH kaM opL phiH thiitF saM mɔɔM raM saM	0.6379310344827587
+ธงชัยเฉลิมพล	thoŋM chayM chaM ləəmR maM phonM	0.875
+พฤศจิกายน	phaM rɯH saM ciL kaayM yaM naM	0.7
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kɔɔM raH suaŋM theeM khaM nooM looM yiiM saaR raM saM naM theeM saM lɛH kaaM raM sɯɯL saaR raM	0.6382978723404256
+ส่องกล้อง	sɔɔŋL kaM lɔɔF ŋaM	0.6111111111111112
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	praL theetF saM witL səəM lɛɛM naM nayM ooM liH maM pikL riH duuM haM naaR waM	0.7948717948717949
+คณะวิศวกรรมศาสตร์	khaM naH wiH sowR kɔɔM raM raM maM saatL taM	0.6136363636363636
+การประกวดเพลงยูโรวิชันปี	kaaM ropH paM raH kowM daM phleeŋM yuuM rooM wiH chanM naM piiM	0.6666666666666667
+ประเทศฝรั่งเศสในโอลิมปิกฤดูหนาว	praL theetF faM raŋL seetL nayM ooM liH maM piL krɯL duuM haM naaR waM	0.7857142857142857
+เสื่อมคลาย	sɯamL khaM laaM yaM	0.6842105263157895
+ตัวอักษร	tuaM akL saM raM	0.625
+ความดีความชอบ	khwaaM maM diikL waaM maM chaM opL	0.5588235294117647
+ประมวล	praL mowM laM	0.5384615384615384
+สู้รบแบบกองโจร	suuF ropH bɛɛpL kaM aM ŋaM cooM raM	0.6857142857142857
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raH theetF saM witL saM eeM laM nɛɛM nayM ooM liH maM piL krɯL duuM rɔɔH naM	0.6875
+ประเทศสวีเดน	paM raH thaM seeM saM wiiM deeM naM	0.6285714285714286
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	praL theetF ɔɔtL taM riaM nayM ooM liH maM pikL rɯH duuM haM naawR	0.8484848484848485
+ยอดเยี่ยมกระเทียมดอง	yaM otL yiaF mokH kɔɔM raH thiamM dɔɔŋM	0.6153846153846154
+พระราชพิธีมหามงคลเฉลิมพระชนมพรรษา	phraH raaM chaM phiH thiiM maM haaR maM ŋokH laM cheeR liH maM phraH chonM maM phɔɔnM raM saaR	0.7446808510638299
+กล้องมองลวดลายพลิกแพลง	kaM lɔɔŋF mɔɔŋM lowM daM laayM phlikH phlɛɛM ŋaM	0.7291666666666667
+เมืองนอกเมืองนา	mɯaM ŋonM okL mɯaM ŋaM naaM	0.6296296296296297
+คบคนจรหมอนหมิ่น	khaM baM khaM notH cɔɔM raM haM mɔɔnM naM minL	0.4565217391304348
+สงครามในคริสต์ทศวรรษ	saM ŋaM khaM raaM maM nayM naM khaM riH saM thotH saM watM	0.5862068965517242
+สุดหล้าฟ้าเขียว	suL daM laaF faaH khiaR waM	0.6666666666666667
+หมากเก็บ	maaR kaM kepL	0.6923076923076923
+ประเทศออสเตรเลียในโอลิมปิกฤดูร้อน	praL thaM səəM otL taM reeM liaM nayM ooM liH maM piL kriL duuM rɔɔnH	0.7246376811594203
+คบคนจรนอนหมอนหมิ่น	khaM bokL khaM notH ronM aM naM haM mɔɔnR minL	0.5
+กองเงินทุนระหว่างประเทศ	kaM oŋM ŋəənM naM thunM raH waaL ŋopH paM raH thaM seeM	0.5818181818181818
+ประเทศฝรั่งเศสในโอลิมปิกฤดูหนาว	paM raL theetF faM raŋL seetL nayM ooM limM piL kriL duuM naaR waM	0.8181818181818181
+เครื่องฟังปอด	kheeM rɯɯF ŋaM faŋM pɔɔtL	0.64
+ประเทศสวีเดนในโอลิมปิกฤดูร้อน	paM raH theetF saM wiiR daM neeM nayM ooM liH maM pikL rɯH duuM rɔɔnH	0.8115942028985508
+มกร	maM kɔɔnM	1.0
+โรงพยาบาลชลประทาน	rooM ŋopH yaaM baanM chonM laM praL thaanM	0.7857142857142857
+เขตปลดปล่อย	khaM teepL laM daM plɔɔyL	0.52
+พระบาทสมเด็จพระพุทธยอดฟ้าจุฬาโลกมหาราช	phraH baatL somR detL phaM raH phuH thotH yɔɔM daM faaH cuL laaM lookF maM haaR raaM chaM	0.797752808988764
+ลูกผู้หญิง	luukF phuuF haM yiL ŋaM	0.6521739130434783
+ประกันสุขภาพ	praL kanM naM sukL phaapF	0.6923076923076923
+ลักษณะจำเพาะ	lakH saM naH camM phɔH	0.9545454545454546
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL thaM seeM saM wiL taM saM eeM laM nɛɛM nayM ooM limM piL kriL duuM naawR	0.6625
+หนังสือแสดงความขอบคุณ	haM naŋM sɯɯR sɛɛtL ŋaM khwaaM maM khɔɔR baM khuH naM	0.5471698113207547
+จานจ่าย	caanM naM caayL	0.7333333333333334
+คริสต์ศตวรรษที่	khritH saM taM wɔɔnM rotH saM thiiF	0.6857142857142857
+โรงเรียนฝึกหัดครู	rooM ŋaM riaM naM fɯL kaM hatL khruuM	0.7297297297297297
+หนังสือราชกิจจานุเบกษา	haM naŋR sɯɯR raatF chaM kiL caM caaM nuH beekL saaR	0.8269230769230769
+กล้องมองลวดลายพลิกแพลง	kaM lɔɔŋH mɔɔM ŋonM wotH laayM phlikH phlɛɛŋM	0.7333333333333334
+วันสําคัญ	wanM samR khanM	1.0
+คบคนจรนอนหมอนหมิ่น	khaM bokL naM cɔɔM raM naM aM naM haM mɔɔR naM miL naM	0.42592592592592593
+กล้องมองลวดลายพลิกแพลง	klɔɔF ŋomM aM ŋaM luatF laaM yopH liH kaM phlɛɛM ŋaM	0.5961538461538461
+วุ้นเส้น	wuH naM seeF naM	0.5
+สรุปเหรียญโอลิมปิกฤดูร้อน	supL riaR yaM ooM limM pikL rɯH duuM rɔɔH naM	0.7111111111111111
+ประเทศญี่ปุ่นในโอลิมปิกฤดูหนาว	paM raL theetF yiiF puL naM nayM ooM limM pikL rɯH duuM naawR	0.8852459016393442
+ประเทศเบลเยียมในโอลิมปิกฤดูหนาว	paM raL theetF baM leeM yiamM nayM ooM liH maM piL krɯL duuM haM naawR	0.7428571428571429
+บทความยอดเยี่ยม	botL thaM khaM waamM yɔɔtF yiaF maM	0.6571428571428571
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raH theetF saM wiL taM seeM aM lɛɛnM nayM ooM liH maM pikL riH duuM rɔɔnH	0.7792207792207793
+เกลียวหวาน	kaM liawM haM waaM naM	0.5
+สงบเรียบร้อย	saM ŋaM bɔɔM riapF rɔɔyH	0.7083333333333333
+กระโดด	kɔɔM raL dooM daM	0.47058823529411764
+คบคนจรนอนหมอนหมิ่น	khaM baM khaM notH ronM naM onM homR onM naM haM miL naM	0.3392857142857143
+คดกริช	khaM daM kɔɔM riL chaM	0.2727272727272727
+กินแหนงเคลงใจ	kinM haM nɛɛŋR khaM leeM ŋaM cayM	0.696969696969697
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raL theetF ɔɔM saM taM riaM nayM ooM limM piL krɯL duuM haM naawM	0.7246376811594203
+กลศาสตร์	konM saatL	1.0
+สิ่งของเครื่องใช้	siŋL khɔɔR ŋaM khaM rɯaF ŋaM chayH	0.6764705882352942
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH theeM saM saM witL səəM lɛɛnM nayM ooM limM pikL riH duuM naaR waM	0.7972972972972973
+ทะลึ่งบ้อง	thaH lɯF ŋaM bɔɔŋF	0.7777777777777778
+ผลงานในคริสต์ทศวรรษ	phonR laM ŋaanM naM khayM khaM riH sotL suanR rotH	0.5800000000000001
+เต็มไปด้วย	temM payM paM dowF yaM	0.5454545454545454
+กระผลีกระผลาม	kɔɔM raH phaM liiM kraL phaM laamR	0.6470588235294117
+หมดเนื้อหมดตัว	haM maM daM nɯaH homR daM tuaM	0.43333333333333335
+กองพิสูจน์หลักฐาน	kɔɔM ŋaM phiH suuR caM haM lakH kaM thaaR naM	0.5333333333333333
+เครื่องปั่นไฟ	khrɯaF ŋaM panL fayM	0.8
+ประเทศกรีซในโอลิมปิกฤดูร้อน	paM raL thaM seeM kriiM saM nayM ooM liH maM pikL rɯH duuM rɔɔH naM	0.6865671641791045
+กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์	kraL suaŋM kaaM raM phatH naaM saŋR khomM lɛH khwaamM manF khoŋM khaM oŋM maM nuH saM	0.8352941176470589
+กิตติมศักดิ์	kiL taM tiL maM sakL	0.65
+ความเมตตากรุณา	khwaaM maM meeM taM taaM kɔɔM ruH naaM	0.7631578947368421
+คบคนจรหมอนหมิ่น	khaM bokL khaM notH raM haM maM onM miL naM	0.37209302325581395
+กล่องแยกทางหลวง	kaM lɔɔL ŋaM yɛɛM kaM thaaM ŋaM honR woŋM	0.46341463414634143
+เจ้าภาพ	cawF phaapF	1.0
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raH thaM seeM aM otL triaM nayM ooM liH maM piL krɯL duuM naaR waM	0.6571428571428571
+ประเทศแคนาดาในโอลิมปิกฤดูหนาว	paM raL theeM saM khɛɛM naaM daaM nayM ooM limM pikL riH duuM naaR waM	0.8142857142857143
+ประเทศสเปนในโอลิมปิกฤดูร้อน	praL thaM seeM saM peeM naM nayM ooM limM piL krɯL duuM rɔɔnH	0.8032786885245902
+สงครามในคริสต์ทศวรรษ	saM ŋaM khraamM naM khayM ritH thotH wɔɔnM rotH	0.6595744680851063
+โรงเรียนสอนคนตาบอดและคนใบ้	rooM ŋaM riaM naM sɔɔR nokH naM taapL otL lɛH khonM bayF	0.6964285714285714
+จังหวัดสงขลา	caŋM watL saM ŋokL laaM	0.6521739130434783
+อ่อนเปลี้ยเพลียแรง	ɔɔL naM paM liaF pheeM liiM yaM rɛɛM ŋaM	0.55
+เครื่องกรอง	khaM rɯaF ŋaM kɔɔM raM aM ŋaM	0.3793103448275862
+บรรพต	banM photH	1.0
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raL theetF saM witL səəM lɛɛnM nayM ooM limM piL krɯL duuM haM naawM	0.8333333333333334
+บัณฑิตวิทยาลัย	banM naM thitH wiH thaM yaaM layM	0.7575757575757576
+ประเทศสวีเดนในโอลิมปิกฤดูหนาว	paM raL thaM seeM saM wiiR deenM nayM ooM limM pikL rɯH duuM naaR waM	0.7971014492753623
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raH theetF saM wiH taM saM eeM laM nɛɛM nayM ooM liH maM piL kriL duuM rɔɔnH	0.6875
+คบคนจรนอนหมอนหมิ่น	khopH khonM naM cɔɔM raM naM aM naM mɔɔnR haM miL naM	0.5660377358490566
+ถนนพุทธมณฑล	thaM naM naM phutH thaM maM notH laM	0.6388888888888888
+เรียกระดมพล	riaM kɔɔM raL daM maM phonM	0.6296296296296297
+นอกจาก	nɔɔkF caaM kaM	0.7142857142857143
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kɔɔM raL suaŋM theeM khaM nooM looM yiiM saanR saM naM thaM seeM lɛH kaanM sɯɯL saaR	0.75
+คณะอักษรศาสตร์	khaM naH akL sɔɔnR saatL taM	0.8571428571428572
+สักว่า	sakL kaM waaF	0.6923076923076923
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	praL theeM saM ɔɔM saM teeM riiM yaM nayM ooM liH maM pikL riH duuM haM naawR	0.6623376623376623
+ประเพณีแปลกๆ	paM raH pheeM niiM plɛɛkL plɛɛkL	0.875
+รุ่นราวคราวเคียวกัน	runF raawM khaM raawM khiawM kanM	0.9090909090909091
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raH theeM sɔɔR otL triaM nayM ooM limM pikL riH duuM haM naawM	0.7575757575757576
+ความดันของบรรยากาศ	khaM waamM maM danM khaM aM ŋaM bɔɔM raM raM yaaM kaatL	0.5636363636363637
+บริษัทก่อสร้าง	bɔɔM riH satL kɔɔL saM raaŋF	0.8214285714285714
+วิวัฒนาการ	wiH watH thaM naaM kaaM raM	0.8518518518518519
+กีฬากรีฑาในโอลิมปิกฤดูร้อน	kiiM laaM kriiM thaaM nayM ooM limM pikL rɯH duuM rɔɔnH	1.0
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	kaM lumL phanM thaM miH tropL raH chaatF naM phɯapF raH chaaM thiH paM tayM yaM	0.6962025316455696
+สํานักงานปลัดกระทรวง	samR nakH ŋaaM naM platL kɔɔM raL thɔɔM ruaŋM	0.6888888888888889
+คบคนจรนอนหมอนหมิ่น	khaM bokL naM cɔɔnM nɔɔnM naM mɔɔR naM haM miF naM	0.52
+ดวงเดือน	daM woŋM dɯaM naM	0.5294117647058824
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raH thaM seeM saM witL saM eeM laM nɛɛM nayM ooM liH maM pikL rɯH duuM rɔɔnH	0.7
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raL theetF ɔɔtL taM riaM nayM ooM liH maM piL krɯL duuM naawR	0.8153846153846154
+หนังสือแสดงความขอบคุณ	haM naŋM sɯɯR saM dɛɛR ŋaM khaM waamM khaM opL khunM	0.6923076923076923
+ประเทศฟินแลนด์ในโอลิมปิกฤดูหนาว	paM raL theeM saM finM lɛɛM naM nayM ooM limM piL kriL duuM haM naawM	0.7101449275362319
+สรุปเหรียญโอลิมปิกฤดูร้อน	supL rianR ooM limM piL krɯL duuM rɔɔnH	0.8372093023255813
+แฟรนไชส์	fɛɛM ronM chayM	1.0
+ราชการบริหารส่วนท้องถิ่น	raatF chaM kaaM raM bɔɔM riL haaR raM sowL naM thɔɔH ŋaM thiL naM	0.6307692307692307
+ยล	yonM	1.0
+เลว	leeM waM	0.625
+กระทรวงเกษตรและสหกรณ์	kraL thɔɔnM waM ŋaM keetL tɔɔnM lɛH saM hokL kɔɔM raM	0.5471698113207547
+ประเทศเนเธอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raL theetF neeM thəəM lɛɛM naM nayM ooM limM piL krɯL duuM rɔɔH naM	0.8169014084507042
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raH thaM seeM saM wiL taM seeM aM lɛɛM naM nayM ooM limM piL kriL duuM rɔɔnH	0.675
+แม่ผัว	mɛɛF phuaR	1.0
+สํานักนายกรัฐมนตรี	samR nakH kaM naayM kɔɔM ratL monM taM riiM	0.7441860465116279
+อาหารสด	aaM haanR saM daM	0.6470588235294117
+เขตพระนคร	khaM teepL raH nokH khaM	0.45833333333333337
+ศาสตราจารย์	saatL traaM caanM	1.0
+กระสอบป่าน	kɔɔM raH saM opL paanL	0.5909090909090908
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kɔɔM raL suaŋM thaM kheeM nooM looM yiiM saanR saM naM theetF lɛH kaanM sɯɯL saaR	0.7901234567901234
+ประเทศอาร์เจนตินาในโอลิมปิกฤดูร้อน	paM raL thaM seeM aaM caM neetL naaM nayM ooM limM piL krɯL duuM rɔɔH naM	0.6986301369863014
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	klumL phanM thaM miH taM raM paM raH chaatF naM phɯapF raH chaaM thipH taM yayM	0.7088607594936709
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูร้อน	paM raH theeM saM saM wiL taM saM eeM laM nɛɛM nayM ooM limM piL kriL duuM rɔɔnH	0.6625
+กระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร	kɔɔM raL thɔɔM rowM ŋaM thaM kheeM nooM looM yiiM saaR raM saM naM thaM seeM lɛH kaaM raM sɯɯL saaR raM	0.5339805825242718
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	klumL phanM thaM mitH ropH raH chaaM chonM phɯaF paM raH chaaM thipH taM yayM	0.8571428571428572
+กระผลีกระผลาม	kɔɔM raH phaM liikL kɔɔM raH phlaaR maM	0.5128205128205128
+ศาลรัฐธรรมนูญ	saanR ratH thɔɔnM romM nuunM	0.6774193548387097
+ประเทศญี่ปุ่นในโอลิมปิกฤดูหนาว	paM raL thaM seeM yiiF puL naM nayM ooM liH maM pikL riH duuM naaR waM	0.7
+รัฐประหารในประเทศไทย	ratH praL haaR raM naM payM raH thaM seeM thayM yaM	0.5882352941176471
+โรงเรียนเตรียมอุดมศึกษา	rooŋM riaM naM teeM riiM yomM uL domM sɯkL kaM saaR	0.6862745098039216
+ประเทศออสเตรียในโอลิมปิกฤดูหนาว	paM raH theeM sɔɔR otL triaM nayM ooM limM piL kriL duuM haM naaR waM	0.6811594202898551
+กรุงเทพมหานคร	kruŋM theeM phaM maM haanR naM khaM	0.7428571428571429
+ประเทศสวิตเซอร์แลนด์ในโอลิมปิกฤดูหนาว	paM raH theetF saM witH saM eeM lɛɛnM nayM ooM limM piL kriL duuM haM naaM waM	0.7307692307692308
+ไหว้	haM wayF	0.5
+กลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย	kaM lumF phanM thaM miH tɔɔnM paM raL chaaM chonM phɯapF raH chaaM thiH paM tayM yaM	0.75
+นักกายกรรมโลดโผน	nakH kaayM kɔɔnM raM maM looM daM phooR naM	0.5813953488372092
+อ่อนละมุน	ɔɔL naM laH muH naM	0.631578947368421
+ตรงไปตรงมา	taM roŋM payM paM troŋM maaM	0.75
