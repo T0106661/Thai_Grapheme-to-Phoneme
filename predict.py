@@ -33,11 +33,12 @@ if __name__ == '__main__':
 	
 	parser = argparse.ArgumentParser()
 	parser.add_argument('--input',  required=True)
+	parser.add_argument('--ids',    required=True)
 	parser.add_argument('--model',  required=True)
 	parser.add_argument('--output', required=True)
 	args   = parser.parse_args()
 	
-	with open('ids.pkl', 'rb') as f:
+	with open(args.ids, 'rb') as f:
 		x_idxs, y_idxs = pickle.load(f)
 	
 	tups   = load_data(args.input)

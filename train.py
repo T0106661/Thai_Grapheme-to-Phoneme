@@ -81,13 +81,18 @@ def create_model(x_chrs, y_syls, y_chrs, p=0.2):
 
 if __name__ == '__main__':
 	import argparse
+	import pickle
 	
 	parser = argparse.ArgumentParser()
 	parser.add_argument('--input', required=True)
+	parser.add_argument('--ids',   required=True)
 	parser.add_argument('--model', required=True)
 	args   = parser.parse_args()
 	
 	tups, x_chrs, x_idxs, y_syls, y_chrs, y_idxs = load_data(args.input)
+	with open(args.ids, 'wb') as f:
+		pickle.dump((x_idxs, y_idxs), f)
+	
 	model = create_model(x_chrs, y_syls, y_chrs)
 	x_data, ys_data, yc_data, z_data = create_data(tups, x_idxs, y_idxs)
 	
