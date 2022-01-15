@@ -21,8 +21,11 @@ pip install -r requirements.txt
 To predict the similarity using the pre-trained model, run predict.py as
 
 ```shell
-python predict.py --input test.txt --model pretrained_model.h5 --output output.txt
+python predict.py --input test_tha.txt --ids tha.pkl --model pretrained_tha.h5 --output output.txt
 ```
+
+The ids file should be the one when the model was trained
+because this file contains the information of syllables and phonemes. 
 
 The input file needs to be represented as
 
@@ -33,15 +36,17 @@ characters2 [tab] syllables2 [newline]
 ```
 
 Syllables need to be separated by spaces.
-Check ids.pkl for examples of Thai syllables.
 
 ## Training
 
 To train a model, run train.py as
 
 ```shell
-python train.py --input train1000.txt --output model.h5
+python train.py --input train1000.txt --ids ids.pkl --model model.h5
 ```
+
+After training, the ids file and the model file are created.
+The ids file contains the information of syllables and phonemes.
 
 This script can be applied to languages other than Thai.
 The input file needs to be represented as
